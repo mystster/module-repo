@@ -1,15 +1,6 @@
 {
   "name": "mystster Magisk Repo",
   "website": "https://mystster.github.io/module-repo",
-  "support": null,
-  "donate": null,
-  "submission": null,
-  "cover": null,
-  "description": null,
-  "metadata": {
-    "version": 1,
-    "timestamp": 1736012116.865757
-  },
   "modules": [
     {
       "id": "TA_utl",
