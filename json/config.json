@@ -1,10 +1,10 @@
 {
-  "name": "Template Magisk Modules Repository",
+  "name": "mystster's Magisk Modules Repository",
   "website": null,
   "support": null,
   "donate": null,
   "submission": null,
-  "base_url": "https://example.com/",
+  "base_url": "https://mystster.github.io/module-repo/",
   "description": null,
   "max_num": 2,
   "enable_log": true,
