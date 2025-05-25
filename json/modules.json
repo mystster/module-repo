@@ -519,69 +519,6 @@
       ]
     },
     {
-      "id": "zygisk_lsposed",
-      "name": "Zygisk - LSPosed",
-      "version": "v1.10.1 (7115)",
-      "versionCode": 7115,
-      "author": "Jing Matrix & LSPosed Developers",
-      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 15. Requires Magisk 26.0+ and Zygisk enabled.",
-      "require": [
-        "zygisksu"
-      ],
-      "verified": false,
-      "added": 0,
-      "size": 2462055,
-      "features": {
-        "service": true,
-        "post_fs_data": true,
-        "resetprop": true,
-        "sepolicy": true,
-        "apks": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": null,
-        "source": "https://github.com/JingMatrix/LSPosed"
-      },
-      "versions": [
-      ]
-    },
-    {
-      "id": "zygisksu",
-      "name": "ReZygisk",
-      "version": "v1.0.0-rc.2",
-      "versionCode": 342,
-      "author": "The PerformanC Organization",
-      "description": "Standalone implementation of Zygisk.",
-      "manager": {
-        "kernelsu": {
-          "min": 10940
-        },
-        "ksunext": {
-          "min": 10940
-        },
-        "magisk": {
-          "min": 26402
-        }
-      },
-      "verified": false,
-      "added": 0,
-      "size": 3433554,
-      "features": {
-        "service": true,
-        "post_fs_data": true,
-        "sepolicy": true,
-        "webroot": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": null,
-        "source": "https://github.com/PerformanC/ReZygisk"
-      },
-      "versions": [
-      ]
-    },
-    {
       "id": "BetterKnownInstalled",
       "name": "BetterKnownInstalled (BKI)",
       "version": "v1.3.3",
