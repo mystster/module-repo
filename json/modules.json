@@ -1,514 +1,17 @@
 {
-  "name": "mystster Magisk Repo",
-  "website": "https://mystster.github.io/module-repo",
+  "id": "myshubepo",
+  "name": "mystster's Magisk Modules Repository",
+  "website": null,
+  "support": null,
+  "donate": null,
+  "submission": null,
+  "cover": "https://mystster.github.io/module-repo/assets/cover.webp",
+  "description": null,
+  "metadata": {
+    "version": 1,
+    "timestamp": 1748247614.298418
+  },
   "modules": [
-    {
-      "id": "TA_utl",
-      "name": "Tricky Addon - Update Target List",
-      "version": "v3.0",
-      "versionCode": 300,
-      "author": "KOWX712",
-      "description": "A WebUI to conifgure tricky store target.txt ",
-      "added": 1723905223.0,
-      "require": [
-        "tricky_store"
-      ],
-      "categories": [
-        "WebUI"
-      ],
-      "support": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/issues",
-      "license": " GPL-3.0",
-      "readme": "https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/refs/heads/main/README.md",
-      "note": {
-        "message": "This module is not a part of the Tricky Store module. DO NOT report any issues to Tricky Store if encountered"
-      },
-      "verified": false,
-      "timestamp": 1735695562.0,
-      "size": 1205108,
-      "features": {
-        "service": true,
-        "post_fs_data": true,
-        "action": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1723905223.0,
-        "source": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List",
-        "antifeatures": [
-          "NonFreeAdd",
-          "NonFreeDep"
-        ]
-      },
-      "versions": [
-        {
-          "timestamp": 1732972101.0,
-          "version": "v2.6",
-          "versionCode": 260,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.6_260.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.6_260.md",
-          "size": 1187388
-        },
-        {
-          "timestamp": 1733565627.0,
-          "version": "v2.7",
-          "versionCode": 270,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.7_270.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.7_270.md",
-          "size": 1185848
-        },
-        {
-          "timestamp": 1733577682.0,
-          "version": "v2.7.1",
-          "versionCode": 271,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.7.1_271.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.7.1_271.md",
-          "size": 1185982
-        },
-        {
-          "timestamp": 1734163760.0,
-          "version": "v2.8",
-          "versionCode": 280,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.8_280.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.8_280.md",
-          "size": 1187881
-        },
-        {
-          "timestamp": 1735116131.0,
-          "version": "v2.9",
-          "versionCode": 290,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.9_290.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v2.9_290.md",
-          "size": 1198627
-        },
-        {
-          "timestamp": 1735695562.0,
-          "version": "v3.0",
-          "versionCode": 300,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.0_300.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/TA_utl/v3.0_300.md",
-          "size": 1205108
-        }
-      ]
-    },
-    {
-      "id": "livebootmagisk",
-      "name": "LiveBoot",
-      "version": "v3.0.3",
-      "versionCode": 30003,
-      "author": "Ali Beyaz (avalibeyaz.com/github)",
-      "description": "A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices",
-      "added": 1445340430.7142262,
-      "categories": [
-        "Boot",
-        "Boot Animation",
-        "System"
-      ],
-      "icon": "https://raw.githubusercontent.com/Chainfire/liveboot/master/liveBootAni2/src/main/res/mipmap-xxxhdpi/ic_launcher_new.png",
-      "donate": "https://patreon.com/user?u=88377368",
-      "support": "https://github.com/symbuzzer/livebootmodule/issues",
-      "license": "GPL-3.0",
-      "readme": "https://github.com/symbuzzer/livebootmodule/raw/main/README.md",
-      "verified": false,
-      "timestamp": 1726921979.0,
-      "size": 509442,
-      "features": {
-        "webroot": true,
-        "modconf": true
-      },
-      "track": {
-        "type": "GIT",
-        "added": 1445340430.7142262,
-        "source": "https://github.com/symbuzzer/livebootmodule",
-        "antifeatures": null
-      },
-      "versions": [
-        {
-          "timestamp": 1725516965.0,
-          "version": "v3.0.0",
-          "versionCode": 30000,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v3.0.0_30000.zip",
-          "changelog": "",
-          "size": 503799
-        },
-        {
-          "timestamp": 1725604916.0,
-          "version": "v3.0.1",
-          "versionCode": 30001,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v3.0.1_30001.zip",
-          "changelog": "",
-          "size": 504762
-        },
-        {
-          "timestamp": 1725639835.0,
-          "version": "v3.0.2",
-          "versionCode": 30002,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v3.0.2_30002.zip",
-          "changelog": "",
-          "size": 504785
-        },
-        {
-          "timestamp": 1726921979.0,
-          "version": "v3.0.3",
-          "versionCode": 30003,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/livebootmagisk/v3.0.3_30003.zip",
-          "changelog": "",
-          "size": 509442
-        }
-      ]
-    },
-    {
-      "id": "playintegrityfix",
-      "name": "Play Integrity Fix",
-      "version": "v18.2",
-      "versionCode": 18200,
-      "author": "chiteroman",
-      "description": "Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-15",
-      "added": 1445340430.7142262,
-      "categories": [
-        "Zygisk",
-        "Security"
-      ],
-      "donate": "https://www.paypal.com/paypalme/chiteroman",
-      "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
-      "license": "GPL-3.0",
-      "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
-      "manager": {
-        "kernelsu": {
-          "require": [
-            "zygisk-assistant"
-          ]
-        },
-        "apatch": {
-          "require": [
-            "zygisk-assistant"
-          ]
-        }
-      },
-      "verified": false,
-      "timestamp": 1735065893.0,
-      "size": 235036,
-      "features": {
-        "service": true,
-        "post_fs_data": true,
-        "sepolicy": true,
-        "zygisk": true,
-        "action": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1445340430.7142262,
-        "source": "https://github.com/chiteroman/PlayIntegrityFix",
-        "antifeatures": null
-      },
-      "versions": [
-        {
-          "timestamp": 1727969399.0,
-          "version": "v17.7",
-          "versionCode": 17700,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.7_17700.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.7_17700.md",
-          "size": 160089
-        },
-        {
-          "timestamp": 1729686545.0,
-          "version": "v17.8",
-          "versionCode": 17800,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.8_17800.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.8_17800.md",
-          "size": 252335
-        },
-        {
-          "timestamp": 1729850344.0,
-          "version": "v17.9",
-          "versionCode": 17900,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.9_17900.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v17.9_17900.md",
-          "size": 252119
-        },
-        {
-          "timestamp": 1731804089.0,
-          "version": "v18.0",
-          "versionCode": 18000,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.0_18000.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.0_18000.md",
-          "size": 239964
-        },
-        {
-          "timestamp": 1734124640.0,
-          "version": "v18.1",
-          "versionCode": 18100,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.1_18100.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.1_18100.md",
-          "size": 232176
-        },
-        {
-          "timestamp": 1735065893.0,
-          "version": "v18.2",
-          "versionCode": 18200,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.2_18200.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/playintegrityfix/v18.2_18200.md",
-          "size": 235036
-        }
-      ]
-    },
-    {
-      "id": "susfs4ksu",
-      "name": "SUSFS-FOR-KERNELSU",
-      "version": "v1.4.2-R12",
-      "versionCode": 104002012,
-      "author": "sidex15 & simonpunk",
-      "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
-      "added": 1723905223,
-      "manager": {
-        "apatch": {
-          "min": -1
-        },
-        "kernelsu": {
-          "require": [
-            "bindhosts"
-          ]
-        },
-        "magisk": {
-          "min": -1
-        }
-      },
-      "verified": false,
-      "timestamp": 1735545926.0,
-      "size": 892829,
-      "features": {
-        "service": true,
-        "post_fs_data": true,
-        "webroot": true,
-        "post_mount": true,
-        "boot_completed": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1723905223,
-        "source": "https://github.com/sidex15/ksu_module_susfs",
-        "antifeatures": null
-      },
-      "versions": [
-        {
-          "timestamp": 1733382594.0,
-          "version": "v1.4.2-R9",
-          "versionCode": 10400209,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R9_10400209.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R9_10400209.md",
-          "size": 890023
-        },
-        {
-          "timestamp": 1733654606.0,
-          "version": "v1.4.2-R10",
-          "versionCode": 104002010,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R10_104002010.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R10_104002010.md",
-          "size": 878077
-        },
-        {
-          "timestamp": 1734082080.0,
-          "version": "v1.4.2-R11",
-          "versionCode": 104002011,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R11_104002011.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R11_104002011.md",
-          "size": 891333
-        },
-        {
-          "timestamp": 1735545926.0,
-          "version": "v1.4.2-R12",
-          "versionCode": 104002012,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R12_104002012.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/susfs4ksu/v1.4.2-R12_104002012.md",
-          "size": 892829
-        }
-      ]
-    },
-    {
-      "id": "tricky_store",
-      "name": "Tricky Store",
-      "version": "v1.2.0 (155-331f6fe-release)",
-      "versionCode": 155,
-      "author": "5ec1cff",
-      "description": "A trick of keystore",
-      "added": 1723905223.0,
-      "categories": [
-        "System"
-      ],
-      "readme": "https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/README.md",
-      "verified": false,
-      "timestamp": 1730124120.0,
-      "size": 2277483,
-      "features": {
-        "service": true,
-        "post_fs_data": true,
-        "sepolicy": true,
-        "apks": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1723905223.0,
-        "source": "https://github.com/5ec1cff/TrickyStore",
-        "antifeatures": [
-          "NoSourceSince"
-        ]
-      },
-      "versions": [
-        {
-          "timestamp": 1730124120.0,
-          "version": "v1.2.0 (155-331f6fe-release)",
-          "versionCode": 155,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.2.0_155-331f6fe-release.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/tricky_store/v1.2.0_155-331f6fe-release.md",
-          "size": 2277483
-        }
-      ]
-    },
-    {
-      "id": "vbmeta-fixer",
-      "name": "VBMeta Fixer",
-      "version": "1.0.5",
-      "versionCode": 105,
-      "author": "Reveny",
-      "description": "Reset the VBMeta digest property with the correct boot hash to fix detection",
-      "verified": true,
-      "added": 0,
-      "timestamp": 1730300984,
-      "size": 3138790,
-      "features": {
-        "service": true,
-        "apks": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": null,
-        "source": "https://github.com/reveny/Android-VBMeta-Fixer",
-        "antifeatures": null
-      },
-      "versions": [
-        {
-          "timestamp": 1730300984.0,
-          "version": "1.0.5",
-          "versionCode": 105,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/vbmeta-fixer/1.0.5_105.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/vbmeta-fixer/1.0.5_105.md",
-          "size": 3138790
-        }
-      ]
-    },
-    {
-      "id": "zygisk-assistant",
-      "name": "Zygisk Assistant",
-      "version": "v2.1.3 (7b35d36-release)",
-      "versionCode": 213,
-      "author": "snake-4",
-      "description": "A Zygisk module to hide root.",
-      "added": 1733301165.0,
-      "verified": false,
-      "timestamp": 1723905223.0,
-      "size": 396665,
-      "features": {
-        "service": true,
-        "post_fs_data": true,
-        "zygisk": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1733301165.0,
-        "source": "https://github.com/snake-4/Zygisk-Assistant",
-        "antifeatures": null
-      },
-      "versions": [
-        {
-          "timestamp": 1723905223.0,
-          "version": "v2.1.3 (7b35d36-release)",
-          "versionCode": 213,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-assistant/v2.1.3_7b35d36-release_213.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-assistant/v2.1.3_7b35d36-release_213.md",
-          "size": 396665
-        }
-      ]
-    },
-    {
-      "id": "zygisk-detach",
-      "name": "zygisk-detach",
-      "version": "v1.19.2",
-      "versionCode": 25,
-      "author": "j-hc",
-      "description": "Detaches installed apps from Play Store",
-      "added": 1716564516.209616,
-      "categories": [
-        "Magisk",
-        "KernelSU",
-        "Tools"
-      ],
-      "support": "https://github.com/j-hc/zygisk-detach/issues",
-      "license": "Apache-2.0",
-      "readme": "https://raw.githubusercontent.com/j-hc/zygisk-detach/master/README.md",
-      "require": [
-        "zygisk-assistant"
-      ],
-      "verified": false,
-      "timestamp": 1735730251.0,
-      "size": 171824,
-      "features": {
-        "post_fs_data": true,
-        "zygisk": true,
-        "webroot": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1716564516.209616,
-        "source": "https://github.com/j-hc/zygisk-detach",
-        "antifeatures": null
-      },
-      "versions": [
-        {
-          "timestamp": 1716371540.0,
-          "version": "v1.16.1",
-          "versionCode": 20,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.16.1_20.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.16.1_20.md"
-        },
-        {
-          "timestamp": 1718458010.0,
-          "version": "v1.17.0",
-          "versionCode": 21,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.17.0_21.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.17.0_21.md"
-        },
-        {
-          "timestamp": 1718898770.0,
-          "version": "v1.18.0",
-          "versionCode": 22,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.18.0_22.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.18.0_22.md"
-        },
-        {
-          "timestamp": 1735647220.0,
-          "version": "v1.19.0",
-          "versionCode": 23,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.0_23.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.0_23.md",
-          "size": 174658
-        },
-        {
-          "timestamp": 1735650872.0,
-          "version": "v1.19.1",
-          "versionCode": 24,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.1_24.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.1_24.md",
-          "size": 174665
-        },
-        {
-          "timestamp": 1735730251.0,
-          "version": "v1.19.2",
-          "versionCode": 25,
-          "zipUrl": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.2_25.zip",
-          "changelog": "https://gr.dergoogler.com/gmr/modules/zygisk-detach/v1.19.2_25.md",
-          "size": 171824
-        }
-      ]
-    },
     {
       "id": "BetterKnownInstalled",
       "name": "BetterKnownInstalled (BKI)",
@@ -537,7 +40,7 @@
         "added": null,
         "source": "https://github.com/Pixel-Props/BetterKnownInstalled",
         "antifeatures": null,
-        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/BetterKnownInstalled/track.yaml"
+        "build_metadata": "https://mystster.github.io/module-repo/modules/BetterKnownInstalled/track.yaml"
       },
       "versions": [
         {
@@ -551,49 +54,322 @@
       ]
     },
     {
-      "id": "Malwack",
-      "name": "Malwack | Anti-Malware & Ad Blocker",
-      "version": "v5.0.4",
-      "versionCode": 30,
-      "author": "Person0z",
-      "description": "Ever wanted to get rid of those annoying ads that pop every 2 seconds in mobile games you're playing or websites you are visiting? Well, look no further with Malwack, your defense against ads!",
-      "added": 1719068038.972528,
-      "support": "https://github.com/Magisk-Modules-Alt-Repo/Malwack/issues",
-      "readme": "https://raw.githubusercontent.com/Magisk-Modules-Alt-Repo/Malwack/main/README.md",
+      "id": "PlayIntegrityFix",
+      "name": "Play Integrity Fix",
+      "version": "v19.1",
+      "versionCode": 19100,
+      "author": "chiteroman",
+      "description": "Universal modular fix for Play Integrity (and SafetyNet) on devices running Android 8-15",
+      "categories": [
+        "Font",
+        "Network",
+        "Script",
+        "Theme"
+      ],
+      "support": "https://github.com/chiteroman/PlayIntegrityFix/issues",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md",
       "verified": false,
-      "timestamp": 1742345860.301327,
-      "size": 6804834,
+      "added": 0,
+      "timestamp": 1747493975.0,
+      "size": 127130,
       "permissions": [
         "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ZYGISK",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "zygisk": true,
+        "action": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/chiteroman/PlayIntegrityFix",
+        "antifeatures": null,
+        "build_metadata": "https://mystster.github.io/module-repo/modules/PlayIntegrityFix/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1744131518.0,
+          "version": "v19.0",
+          "versionCode": 19000,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v19.0_19000.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v19.0_19000.md",
+          "size": 177686
+        },
+        {
+          "timestamp": 1747493975.0,
+          "version": "v19.1",
+          "versionCode": 19100,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v19.1_19100.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/PlayIntegrityFix/v19.1_19100.md",
+          "size": 127130
+        }
+      ]
+    },
+    {
+      "id": "Re-Malwack",
+      "name": "Re-Malwack | Not just a normal ad-blocker module \u2728",
+      "version": "v6.0",
+      "versionCode": 600,
+      "author": "ZG089",
+      "description": "A fully-fledged ad-block module. Contains all your needs \u2728",
+      "categories": [
+        "Adblocking and Hosts Files",
+        "APatch",
+        "KernelSU",
+        "Magisk",
+        "Built Different",
+        "Protection",
+        "WebUI"
+      ],
+      "donate": "http://buymeacoffee.com/ZG089",
+      "support": "https://t.me/Re_Malwack",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/ZG089/Re-Malwack/refs/heads/main/README.md",
+      "verified": true,
+      "icon": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/assets/logo.png",
+      "cover": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/assets/banner.png",
+      "added": 0,
+      "timestamp": 1743478933.0,
+      "size": 1759912,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "service": true,
+        "action": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/ZG089/Re-Malwack",
+        "antifeatures": null,
+        "build_metadata": "https://mystster.github.io/module-repo/modules/Re-Malwack/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1734878287.0,
+          "version": "v5.3.0",
+          "versionCode": 530,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v5.3.0_530.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v5.3.0_530.md",
+          "size": 47546
+        },
+        {
+          "timestamp": 1743478933.0,
+          "version": "v6.0",
+          "versionCode": 600,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v6.0_600.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Re-Malwack/v6.0_600.md",
+          "size": 1759912
+        }
+      ]
+    },
+    {
+      "id": "TA_utl",
+      "name": "Tricky Addon - Update Target List",
+      "version": "v3.9",
+      "versionCode": 390,
+      "author": "KOWX712",
+      "description": "A WebUI to conifgure tricky store target.txt ",
+      "categories": [
+        "WebUI"
+      ],
+      "support": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/issues",
+      "readme": "https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/refs/heads/main/README.md",
+      "license": " GPL-3.0",
+      "note": {
+        "message": "This module is not a part of the Tricky Store module. DO NOT report any issues to Tricky Store if encountered"
+      },
+      "verified": false,
+      "added": 0,
+      "timestamp": 1746893051.0,
+      "size": 1283556,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
         "magisk.permission.ACTION"
       ],
       "features": {
         "service": true,
+        "post_fs_data": true,
         "action": true
       },
       "track": {
         "type": "ONLINE_JSON",
-        "added": 1719068038.972528,
-        "source": "https://github.com/Magisk-Modules-Alt-Repo/Malwack.git",
+        "added": null,
+        "source": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List",
         "antifeatures": null,
-        "build_metadata": "https://zguation-projects.github.io/ZG-R/modules/Malwack/track.yaml"
+        "build_metadata": "https://mystster.github.io/module-repo/modules/TA_utl/track.yaml"
       },
       "versions": [
         {
-          "timestamp": 1741291978.350895,
-          "version": "v5.0.4",
-          "versionCode": 30,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.4_30.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Malwack/v5.0.4_30.md",
-          "size": 6804834
+          "timestamp": 1746893051.0,
+          "version": "v3.9",
+          "versionCode": 390,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v3.9_390.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v3.9_390.md",
+          "size": 1283556
+        }
+      ]
+    },
+    {
+      "id": "livebootmagisk",
+      "name": "LiveBoot",
+      "version": "v4.0.0",
+      "versionCode": 40000,
+      "author": "Ali Beyaz (avalibeyaz.com/github)",
+      "description": "A Magisk, KernelSU and APatch module that enables unix-style (verbose) boot animation for Android devices",
+      "support": "https://github.com/symbuzzer/livebootmodule/issues",
+      "readme": "https://raw.githubusercontent.com/symbuzzer/livebootmodule/refs/heads/main/README.md",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1744281224.0,
+      "size": 499989,
+      "permissions": [
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "webroot": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/symbuzzer/livebootmodule",
+        "antifeatures": null,
+        "build_metadata": "https://mystster.github.io/module-repo/modules/livebootmagisk/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1738867123.0,
+          "version": "v1.3.3",
+          "versionCode": 1337,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BetterKnownInstalled/v1.3.3_1337.zip",
+          "changelog": "",
+          "size": 1793757
         },
         {
-          "timestamp": 1742345860.301327,
-          "version": "1.0.41",
-          "versionCode": 104114,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/Malwack/1.0.41_104114.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/Malwack/1.0.41_104114.md",
-          "size": 6804834
+          "timestamp": 1744281224.0,
+          "version": "v4.0.0",
+          "versionCode": 40000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/livebootmagisk/v4.0.0_40000.zip",
+          "changelog": "",
+          "size": 499989
+        }
+      ]
+    },
+    {
+      "id": "tricky_store",
+      "name": "Tricky Store",
+      "version": "v1.2.1 (158-51390a7-release)",
+      "versionCode": 158,
+      "author": "5ec1cff",
+      "description": "A trick of keystore",
+      "added": 1723905223.0,
+      "categories": [
+        "System"
+      ],
+      "readme": "https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/README.md",
+      "verified": true,
+      "timestamp": 1738906998.0,
+      "size": 2350601,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/5ec1cff/TrickyStore",
+        "antifeatures": [
+          "NoSourceSince"
+        ],
+        "build_metadata": "https://mystster.github.io/module-repo/modules/tricky_store/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1738906998.0,
+          "version": "v1.2.1 (158-51390a7-release)",
+          "versionCode": 158,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.2.1_158-51390a7-release.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.2.1_158-51390a7-release.md",
+          "size": 2350601
+        }
+      ]
+    },
+    {
+      "id": "zygisk-detach",
+      "name": "zygisk-detach",
+      "version": "v1.20.0",
+      "versionCode": 27,
+      "author": "j-hc",
+      "description": "Detaches installed apps from Play Store",
+      "added": 1716564516.209616,
+      "categories": [
+        "Magisk",
+        "KernelSU",
+        "Tools"
+      ],
+      "support": "https://github.com/j-hc/zygisk-detach/issues",
+      "license": "Apache-2.0",
+      "readme": "https://raw.githubusercontent.com/j-hc/zygisk-detach/master/README.md",
+      "require": [
+        "zygisk-assistant"
+      ],
+      "verified": false,
+      "timestamp": 1744751428.0,
+      "size": 176813,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ZYGISK",
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "post_fs_data": true,
+        "zygisk": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1716564516.209616,
+        "source": "https://github.com/j-hc/zygisk-detach",
+        "antifeatures": null,
+        "build_metadata": "https://mystster.github.io/module-repo/modules/zygisk-detach/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1739046326.0,
+          "version": "v1.19.3",
+          "versionCode": 26,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.19.3_26.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.19.3_26.md",
+          "size": 174968
+        },
+        {
+          "timestamp": 1744751428.0,
+          "version": "v1.20.0",
+          "versionCode": 27,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.20.0_27.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.20.0_27.md",
+          "size": 176813
         }
       ]
     }
