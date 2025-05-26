@@ -1,0 +1,8 @@
+id: zygisk_lsposed
+enable: true
+update_to: https://github.com/JingMatrix/LSPosed.git
+source: https://github.com/JingMatrix/LSPosed
+support: https://github.com/JingMatrix/LSPosed/issues
+readme: https://raw.githubusercontent.com/JingMatrix/LSPosed/refs/heads/main/README.md
+require:
+  - "zygisksu"

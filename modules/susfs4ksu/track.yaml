@@ -1,0 +1,8 @@
+id: susfs4ksu
+enable: true
+update_to: https://raw.githubusercontent.com/sidex15/ksu_module_susfs/v1.5.2+/update.json
+source: https://github.com/sidex15/susfs4ksu-module
+support: https://github.com/sidex15/susfs4ksu-module/issues
+readme: https://raw.githubusercontent.com/sidex15/susfs4ksu-module/refs/heads/main/README.md
+require:
+  - "zygisksu"

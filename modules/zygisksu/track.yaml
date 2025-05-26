@@ -1,0 +1,7 @@
+id: zygisksu
+enable: true
+update_to: https://github.com/PerformanC/ReZygisk.git
+source: https://github.com/PerformanC/ReZygisk
+support: https://github.com/PerformanC/ReZygisk/issues
+readme: https://raw.githubusercontent.com/PerformanC/ReZygisk/refs/heads/main/README.md
+license: GPL-3.0
