@@ -1,11 +1,9 @@
-!!python/object/new:mmrl-util.sync.model.AttrDict.AttrDict
-dictitems:
-  enable: true
-  id: zygisksu
-  last_update: 1745731924.0
-  license: GPL-3.0
-  readme: https://raw.githubusercontent.com/PerformanC/ReZygisk/refs/heads/main/README.md
-  source: https://github.com/PerformanC/ReZygisk
-  support: https://github.com/PerformanC/ReZygisk/issues
-  update_to: https://github.com/PerformanC/ReZygisk.git
-  versions: 1
+enable: true
+id: zygisksu
+last_update: 1745731924.0
+license: GPL-3.0
+readme: https://raw.githubusercontent.com/PerformanC/ReZygisk/refs/heads/main/README.md
+source: https://github.com/PerformanC/ReZygisk
+support: https://github.com/PerformanC/ReZygisk/issues
+update_to: https://github.com/PerformanC/ReZygisk.git
+versions: 1
