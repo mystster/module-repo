@@ -41,6 +41,7 @@ jobs:
         with:
           path: mmrl-util
           repository: mystster/MMRL-Util
+          ref: fix-KernelSU-module-fail-detect
       - name: Set up Git
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
