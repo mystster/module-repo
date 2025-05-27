@@ -1,8 +1,12 @@
-id: zygisk-assistant
-enable: true
-update_to: https://raw.githubusercontent.com/snake-4/Zygisk-Assistant/main/update_metadata/update.json
-source: https://github.com/snake-4/Zygisk-Assistant
-support: https://github.com/snake-4/Zygisk-Assistant/issues
-readme: https://raw.githubusercontent.com/snake-4/Zygisk-Assistant/refs/heads/main/README.md
-require:
-  - "zygisksu"
+!!python/object/new:mmrl-util.sync.model.AttrDict.AttrDict
+dictitems:
+  enable: true
+  id: zygisk-assistant
+  last_update: 1740269915.0
+  readme: https://raw.githubusercontent.com/snake-4/Zygisk-Assistant/refs/heads/main/README.md
+  require:
+  - zygisksu
+  source: https://github.com/snake-4/Zygisk-Assistant
+  support: https://github.com/snake-4/Zygisk-Assistant/issues
+  update_to: https://raw.githubusercontent.com/snake-4/Zygisk-Assistant/main/update_metadata/update.json
+  versions: 1

@@ -1,0 +1,14 @@
+{
+  "id": "zygisk-assistant",
+  "timestamp": 1740269915.0,
+  "versions": [
+    {
+      "timestamp": 1740269915.0,
+      "version": "v2.1.4 (1013f8a-release)",
+      "versionCode": 214,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk-assistant/v2.1.4_1013f8a-release_214.zip",
+      "changelog": "https://mystster.github.io/module-repo/modules/zygisk-assistant/v2.1.4_1013f8a-release_214.md",
+      "size": 392961
+    }
+  ]
+}
