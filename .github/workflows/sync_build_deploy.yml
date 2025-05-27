@@ -36,7 +36,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: ${{ github.ref }}
-
+      - name: Modified MMRL-Util checkout
+        uses: actions/checkout@v4
+        with:
+          path: mmrl-util
+          repository: mystster/MMRL-Util
       - name: Set up Git
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -55,7 +59,7 @@ jobs:
       - name: Sync
         if: ${{ env.IS_SYNC == 'true' }}
         run: |
-          mmrl-util sync --diff versions_diff.md
+          python -m mmrl-util/sync sync --diff versions_diff.md
 
       - name: Write versions diff to summary
         if: ${{ env.IS_SYNC == 'true' }}
@@ -69,7 +73,7 @@ jobs:
       - name: Write latest versions to summary
         if: ${{ env.IS_SYNC != 'true' }}
         run: |
-          mmrl-util index --list > latest_versions.md
+          python -m mmrl-util/sync index --list > latest_versions.md
           echo "## Latest Versions" >> $GITHUB_STEP_SUMMARY
           echo "$(cat latest_versions.md)" >> $GITHUB_STEP_SUMMARY
           rm latest_versions.md
@@ -77,7 +81,7 @@ jobs:
       - name: Index and Push
         if: ${{ env.IS_SYNC == 'true' }}
         run: |
-          mmrl-util index --push
+          python -m mmrl-util/sync index --push
 
       - name: Upload logs
         uses: actions/upload-artifact@v4
