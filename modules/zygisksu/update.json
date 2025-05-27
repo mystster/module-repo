@@ -1,0 +1,14 @@
+{
+  "id": "zygisksu",
+  "timestamp": 1745731924.0,
+  "versions": [
+    {
+      "timestamp": 1745731924.0,
+      "version": "v1.0.0-rc.2",
+      "versionCode": 342,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0-rc.2_342.zip",
+      "changelog": "",
+      "size": 254591
+    }
+  ]
+}
