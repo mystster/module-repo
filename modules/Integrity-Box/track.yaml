@@ -1,15 +1,13 @@
-!!python/object/new:mmrl-util.sync.model.AttrDict.AttrDict
-dictitems:
-  enable: true
-  id: Integrity-Box
-  last_update: 1748565631.0
-  readme: https://raw.githubusercontent.com/MeowDump/Integrity-Box/refs/heads/main/README.md
-  require:
-  - PlayIntegrityFix
-  - susfs4ksu
-  - tricky_store
-  - TA_util
-  source: https://github.com/MeowDump/Integrity-Box
-  support: https://github.com/MeowDump/Integrity-Box/issues
-  update_to: https://github.com/MeowDump/Integrity-Box.git
-  versions: 1
+enable: true
+id: Integrity-Box
+last_update: 1748565631.0
+readme: https://raw.githubusercontent.com/MeowDump/Integrity-Box/refs/heads/main/README.md
+require:
+- PlayIntegrityFix
+- susfs4ksu
+- tricky_store
+- TA_util
+source: https://github.com/MeowDump/Integrity-Box
+support: https://github.com/MeowDump/Integrity-Box/issues
+update_to: https://github.com/MeowDump/Integrity-Box.git
+versions: 1
