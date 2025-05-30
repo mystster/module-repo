@@ -1,0 +1,14 @@
+{
+  "id": "zygisk-storage-isolation",
+  "timestamp": 1748616634.4170039,
+  "versions": [
+    {
+      "timestamp": 1748616634.4170039,
+      "version": "v29.0.1",
+      "versionCode": 89,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk-storage-isolation/v29.0.1_89.zip",
+      "changelog": "",
+      "size": 335076
+    }
+  ]
+}
