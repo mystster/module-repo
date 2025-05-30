@@ -1,6 +1,6 @@
 id: zygisk-storage-isolation
 enable: true
-update_to: zygisk-storage-isolation-zygisk-v29.0.1-release.zip
+update_to: storage-isolation-zygisk-v29.0.1-release.zip
 source: https://github.com/RikkaApps/StorageRedirect-assets
 support: https://github.com/RikkaApps/StorageRedirect-assets/issues
 readme: https://raw.githubusercontent.com/RikkaApps/StorageRedirect-assets/refs/heads/main/README.md
