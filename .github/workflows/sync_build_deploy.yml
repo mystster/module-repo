@@ -53,9 +53,10 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
+        working-directory: ./mmrl-util # チェックアウトした mmrl-util ディレクトリに移動
         run: |
           python -m pip install --upgrade pip
-          pip install mmrl-util
+          pip install .
 
       - name: Sync
         if: ${{ env.IS_SYNC == 'true' }}
