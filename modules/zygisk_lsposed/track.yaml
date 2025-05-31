@@ -8,3 +8,4 @@ source: https://github.com/JingMatrix/LSPosed
 support: https://github.com/JingMatrix/LSPosed/issues
 update_to: https://github.com/JingMatrix/LSPosed.git
 versions: 1
+download_preference: "actions"
