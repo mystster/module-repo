@@ -1,13 +1,11 @@
-!!python/object/new:mmrl-util.sync.model.AttrDict.AttrDict
-dictitems:
-  changelog: xxxxx
-  enable: true
-  id: zygisk-storage-isolation
-  last_update: 1748616634.4170039
-  readme: https://raw.githubusercontent.com/RikkaApps/StorageRedirect-assets/refs/heads/main/README.md
-  require:
-  - zygisksu
-  source: https://github.com/RikkaApps/StorageRedirect-assets
-  support: https://github.com/RikkaApps/StorageRedirect-assets/issues
-  update_to: storage-isolation-zygisk-v29.0.1-release.zip
-  versions: 1
+changelog: xxxxx
+enable: true
+id: zygisk-storage-isolation
+last_update: 1748616634.4170039
+readme: https://raw.githubusercontent.com/RikkaAppsStorageRedirect-assets/refs/heads/main/README.md
+require:
+- zygisksu
+source: https://github.com/RikkaApps/StorageRedirect-assets
+support: https://github.com/RikkaApps/StorageRedirect-assets/issues
+update_to: storage-isolation-zygisk-v29.0.1-release.zip
+versions: 1
