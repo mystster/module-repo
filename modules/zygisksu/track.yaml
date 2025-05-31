@@ -7,4 +7,4 @@ source: https://github.com/PerformanC/ReZygisk
 support: https://github.com/PerformanC/ReZygisk/issues
 update_to: https://github.com/PerformanC/ReZygisk.git
 versions: 1
-download_preference: "actions"
+download_source: "actions"

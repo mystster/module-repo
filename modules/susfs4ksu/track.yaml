@@ -8,4 +8,4 @@ source: https://github.com/sidex15/susfs4ksu-module
 support: https://github.com/sidex15/susfs4ksu-module/issues
 update_to: https://raw.githubusercontent.com/sidex15/ksu_module_susfs/v1.5.2+/update.json
 versions: 1
-download_preference: "actions"
+download_source: "actions"
