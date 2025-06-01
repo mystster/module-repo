@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1748672547.215469
+    "timestamp": 1748784949.13906
   },
   "modules": [
     {
@@ -50,6 +50,69 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BetterKnownInstalled/v1.3.3_1337.zip",
           "changelog": "",
           "size": 1793757
+        }
+      ]
+    },
+    {
+      "id": "Integrity-Box",
+      "name": "Integrity Box \ud83d\udce6",
+      "version": "4.1",
+      "versionCode": 410,
+      "author": "\ud835\udde0\ud835\uddd8\ud835\udde2\ud835\uddea\ud835\uddfb\ud835\uddee \ud83d\udc85   \u2332 @MeowDump",
+      "description": "This module provides real, working keyboxes for free with no hidden charges or scams, along with several powerful features. Smash the WebUI button to discover more!",
+      "support": "https://github.com/MeowDump/Integrity-Box/issues",
+      "readme": "https://raw.githubusercontent.com/MeowDump/Integrity-Box/refs/heads/main/README.md",
+      "require": [
+        "PlayIntegrityFix",
+        "susfs4ksu",
+        "tricky_store",
+        "TA_util"
+      ],
+      "verified": false,
+      "added": 0,
+      "timestamp": 1748565631.0,
+      "size": 5910408,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI",
+        "kernelsu.permission.BOOT_COMPLETED",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true,
+        "action": true,
+        "webroot": true,
+        "boot_completed": true,
+        "apks": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/MeowDump/Integrity-Box",
+        "antifeatures": null,
+        "build_metadata": "https://mystster.github.io/module-repo/modules/Integrity-Box/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1748565631.0,
+          "version": "4",
+          "versionCode": 400,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/4_400.zip",
+          "changelog": "",
+          "size": 5910293
+        },
+        {
+          "timestamp": 1748565631.0,
+          "version": "4.1",
+          "versionCode": 410,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/4.1_410.zip",
+          "changelog": "",
+          "size": 5910408
         }
       ]
     },
@@ -410,60 +473,42 @@
       ]
     },
     {
-      "id": "zygisk-detach",
-      "name": "zygisk-detach",
-      "version": "v1.20.0",
-      "versionCode": 27,
-      "author": "j-hc",
-      "description": "Detaches installed apps from Play Store",
-      "added": 1716564516.209616,
-      "categories": [
-        "Magisk",
-        "KernelSU",
-        "Tools"
-      ],
-      "support": "https://github.com/j-hc/zygisk-detach/issues",
-      "license": "Apache-2.0",
-      "readme": "https://raw.githubusercontent.com/j-hc/zygisk-detach/master/README.md",
+      "id": "zygisk-storage-isolation",
+      "name": "Zygisk - Enhanced mode for Storage Isolation",
+      "version": "v29.0.1",
+      "versionCode": 89,
+      "author": "Rikka",
+      "description": "Enable Enhanced mode for Storage Isolation. This module requires Magisk 24.0+ and Zygisk enabled.",
+      "support": "https://github.com/RikkaApps/StorageRedirect-assets/issues",
+      "readme": "https://raw.githubusercontent.com/RikkaAppsStorageRedirect-assets/refs/heads/main/README.md",
       "require": [
-        "zygisk-assistant"
+        "zygisksu"
       ],
       "verified": false,
-      "timestamp": 1744751428.0,
-      "size": 176813,
+      "added": 0,
+      "timestamp": 1748616634.4170039,
+      "size": 335076,
       "permissions": [
-        "magisk.permission.POST_FS_DATA",
-        "magisk.permission.ZYGISK",
-        "kernelsu.permission.WEBUI"
+        "magisk.permission.POST_FS_DATA"
       ],
       "features": {
-        "post_fs_data": true,
-        "zygisk": true,
-        "webroot": true
+        "post_fs_data": true
       },
       "track": {
-        "type": "ONLINE_JSON",
-        "added": 1716564516.209616,
-        "source": "https://github.com/j-hc/zygisk-detach",
+        "type": "LOCAL_ZIP",
+        "added": null,
+        "source": "https://github.com/RikkaApps/StorageRedirect-assets",
         "antifeatures": null,
-        "build_metadata": "https://mystster.github.io/module-repo/modules/zygisk-detach/track.yaml"
+        "build_metadata": "https://mystster.github.io/module-repo/modules/zygisk-storage-isolation/track.yaml"
       },
       "versions": [
         {
-          "timestamp": 1739046326.0,
-          "version": "v1.19.3",
-          "versionCode": 26,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.19.3_26.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.19.3_26.md",
-          "size": 174968
-        },
-        {
-          "timestamp": 1744751428.0,
-          "version": "v1.20.0",
-          "versionCode": 27,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.20.0_27.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.20.0_27.md",
-          "size": 176813
+          "timestamp": 1748616634.4170039,
+          "version": "v29.0.1",
+          "versionCode": 89,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk-storage-isolation/v29.0.1_89.zip",
+          "changelog": "",
+          "size": 335076
         }
       ]
     },
@@ -554,14 +599,6 @@
           "version": "v1.0.0-rc.2",
           "versionCode": 342,
           "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0-rc.2_342.zip",
-          "changelog": "",
-          "size": 254591
-        },
-        {
-          "timestamp": 1745731924.0,
-          "version": "v1.10.1 (7115)",
-          "versionCode": 7115,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.10.1_7115.zip",
           "changelog": "",
           "size": 254591
         }
