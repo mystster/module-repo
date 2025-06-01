@@ -1,11 +1,13 @@
-enable: true
-id: zygisk_lsposed
-last_update: 1729070021.0
-readme: https://raw.githubusercontent.com/JingMatrix/LSPosed/refs/heads/main/README.md
-require:
-- zygisksu
-source: https://github.com/JingMatrix/LSPosed
-support: https://github.com/JingMatrix/LSPosed/issues
-update_to: https://github.com/JingMatrix/LSPosed.git
-versions: 1
-download_source: "actions"
+!!python/object/new:mmrl-util.sync.model.AttrDict.AttrDict
+dictitems:
+  download_source: actions
+  enable: true
+  id: zygisk_lsposed
+  last_update: 1748740882.0
+  readme: https://raw.githubusercontent.com/JingMatrix/LSPosed/refs/heads/main/README.md
+  require:
+  - zygisksu
+  source: https://github.com/JingMatrix/LSPosed
+  support: https://github.com/JingMatrix/LSPosed/issues
+  update_to: https://github.com/JingMatrix/LSPosed.git
+  versions: 2

@@ -9,6 +9,14 @@
       "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0-rc.2_342.zip",
       "changelog": "",
       "size": 254591
+    },
+    {
+      "timestamp": 1748711943.0,
+      "version": "v1.0.0 (365-ce28764-release)",
+      "versionCode": 365,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0_365-ce28764-release.zip",
+      "changelog": "",
+      "size": 433934
     }
   ]
 }

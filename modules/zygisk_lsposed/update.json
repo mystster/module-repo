@@ -9,6 +9,14 @@
       "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.1_7115.zip",
       "changelog": "",
       "size": 2608607
+    },
+    {
+      "timestamp": 1748740882.0,
+      "version": "v1.10.1 (7182)",
+      "versionCode": 7182,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.1_7182.zip",
+      "changelog": "",
+      "size": 6418197
     }
   ]
 }
