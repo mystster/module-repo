@@ -1,7 +1,7 @@
 id: PlayIntegrityFix
 enable: true
 verified: false
-update_to: https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/refs/heads/main/update.json
+update_to: https://github.com/chiteroman/PlayIntegrityFix.git
 license: GPL-3.0
 source: https://github.com/chiteroman/PlayIntegrityFix
 support: https://github.com/chiteroman/PlayIntegrityFix/issues
@@ -13,3 +13,4 @@ categories:
 readme: https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md
 last_update: 1747493975.0
 versions: 2
+download_source: actions
