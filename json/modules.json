@@ -9,9 +9,50 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1748959436.782255
+    "timestamp": 1748957645.192017
   },
   "modules": [
+    {
+      "id": "BetterKnownInstalled",
+      "name": "BetterKnownInstalled (BKI)",
+      "version": "v1.3.3",
+      "versionCode": 1337,
+      "author": "@T3SL4",
+      "description": "Patching (installer, installerUid, installInitiator, installOriginator) in packages.xml and cleaning packaga-warnings.xml for defeating DroidGuard: UNKNOWN_INSTALLED",
+      "support": "https://github.com/Pixel-Props/BetterKnownInstalled/issues",
+      "readme": "https://raw.githubusercontent.com/Pixel-Props/BetterKnownInstalled/refs/heads/main/README.md",
+      "note": {
+        "message": "Installation from recovery is not supported. You must install this module from within a running Android environment (Magisk/KernelSU/APatch)",
+        "title": "Important!"
+      },
+      "verified": false,
+      "added": 0,
+      "timestamp": 1738867123.0,
+      "size": 1793757,
+      "permissions": [
+        "magisk.permission.POST_FS_DATA"
+      ],
+      "features": {
+        "post_fs_data": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/Pixel-Props/BetterKnownInstalled",
+        "antifeatures": null,
+        "build_metadata": "https://mystster.github.io/module-repo/modules/BetterKnownInstalled/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1738867123.0,
+          "version": "v1.3.3",
+          "versionCode": 1337,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BetterKnownInstalled/v1.3.3_1337.zip",
+          "changelog": "",
+          "size": 1793757
+        }
+      ]
+    },
     {
       "id": "Integrity-Box",
       "name": "Integrity Box \ud83d\udce6",
@@ -110,7 +151,7 @@
         "webroot": true
       },
       "track": {
-        "type": "GIT",
+        "type": "ONLINE_JSON",
         "added": null,
         "source": "https://github.com/chiteroman/PlayIntegrityFix",
         "antifeatures": null,
