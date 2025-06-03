@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1748957645.192017
+    "timestamp": 1748975078.638736
   },
   "modules": [
     {
@@ -151,7 +151,7 @@
         "webroot": true
       },
       "track": {
-        "type": "ONLINE_JSON",
+        "type": "GIT",
         "added": null,
         "source": "https://github.com/chiteroman/PlayIntegrityFix",
         "antifeatures": null,
