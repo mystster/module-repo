@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1749363823.609239
+    "timestamp": 1749385885.543202
   },
   "modules": [
     {
@@ -50,69 +50,6 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BetterKnownInstalled/v1.3.3_1337.zip",
           "changelog": "",
           "size": 1793757
-        }
-      ]
-    },
-    {
-      "id": "Integrity-Box",
-      "name": "Integrity Box \ud83d\udce6",
-      "version": "4.1",
-      "versionCode": 410,
-      "author": "\ud835\udde0\ud835\uddd8\ud835\udde2\ud835\uddea\ud835\uddfb\ud835\uddee \ud83d\udc85   \u2332 @MeowDump",
-      "description": "This module provides real, working keyboxes for free with no hidden charges or scams, along with several powerful features. Smash the WebUI button to discover more!",
-      "support": "https://github.com/MeowDump/Integrity-Box/issues",
-      "readme": "https://raw.githubusercontent.com/MeowDump/Integrity-Box/refs/heads/main/README.md",
-      "require": [
-        "PlayIntegrityFix",
-        "susfs4ksu",
-        "tricky_store",
-        "TA_util"
-      ],
-      "verified": false,
-      "added": 0,
-      "timestamp": 1748565631.0,
-      "size": 5910408,
-      "permissions": [
-        "magisk.permission.SERVICE",
-        "magisk.permission.POST_FS_DATA",
-        "magisk.permission.RESETPROP",
-        "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI",
-        "kernelsu.permission.BOOT_COMPLETED",
-        "mmrl.permission.APKS"
-      ],
-      "features": {
-        "service": true,
-        "post_fs_data": true,
-        "resetprop": true,
-        "action": true,
-        "webroot": true,
-        "boot_completed": true,
-        "apks": true
-      },
-      "track": {
-        "type": "GIT",
-        "added": null,
-        "source": "https://github.com/MeowDump/Integrity-Box",
-        "antifeatures": null,
-        "build_metadata": "https://mystster.github.io/module-repo/modules/Integrity-Box/track.yaml"
-      },
-      "versions": [
-        {
-          "timestamp": 1748565631.0,
-          "version": "4",
-          "versionCode": 400,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/4_400.zip",
-          "changelog": "",
-          "size": 5910293
-        },
-        {
-          "timestamp": 1748565631.0,
-          "version": "4.1",
-          "versionCode": 410,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/4.1_410.zip",
-          "changelog": "",
-          "size": 5910408
         }
       ]
     },
@@ -567,6 +504,66 @@
           "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk-storage-isolation/v29.0.1_89.zip",
           "changelog": "",
           "size": 335076
+        }
+      ]
+    },
+    {
+      "id": "zygisk_lsposed",
+      "name": "Zygisk - LSPosed",
+      "version": "v1.10.1 (7184)",
+      "versionCode": 7184,
+      "author": "Jing Matrix & LSPosed Developers",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 15. Requires Magisk 26.0+ and Zygisk enabled.",
+      "support": "https://github.com/JingMatrix/LSPosed/issues",
+      "readme": "https://raw.githubusercontent.com/JingMatrix/LSPosed/refs/heads/mainREADME.md",
+      "require": [
+        "zygisksu"
+      ],
+      "verified": false,
+      "added": 0,
+      "timestamp": 1749120208.0,
+      "size": 6418447,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP",
+        "magisk.permission.SEPOLICY",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true,
+        "sepolicy": true,
+        "action": true,
+        "webroot": true,
+        "apks": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/JingMatrix/LSPosed",
+        "antifeatures": null,
+        "build_metadata": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1748840519.0,
+          "version": "v1.10.1 (7183)",
+          "versionCode": 7183,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.1_7183.zip",
+          "changelog": "",
+          "size": 6418349
+        },
+        {
+          "timestamp": 1749120208.0,
+          "version": "v1.10.1 (7184)",
+          "versionCode": 7184,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.1_7184.zip",
+          "changelog": "",
+          "size": 6418447
         }
       ]
     }
