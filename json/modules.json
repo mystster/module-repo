@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1749709556.925376
+    "timestamp": 1749731700.555615
   },
   "modules": [
     {
@@ -265,56 +265,6 @@
           "zipUrl": "https://mystster.github.io/module-repo/modules/livebootmagisk/v4.0.0_40000.zip",
           "changelog": "",
           "size": 499989
-        }
-      ]
-    },
-    {
-      "id": "susfs4ksu",
-      "name": "SUSFS-FOR-KERNELSU",
-      "version": "v1.5.2-R18",
-      "versionCode": 105002018,
-      "author": "sidex15 & simonpunk",
-      "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
-      "support": "https://github.com/sidex15/susfs4ksu-module/issues",
-      "readme": "https://raw.githubusercontent.com/sidex15/susfs4ksu-module/refs/heads/main/README.md",
-      "require": [
-        "zygisksu"
-      ],
-      "verified": false,
-      "added": 0,
-      "timestamp": 1746190236.0,
-      "size": 1294363,
-      "permissions": [
-        "magisk.permission.SERVICE",
-        "magisk.permission.POST_FS_DATA",
-        "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI",
-        "kernelsu.permission.POST_MOUNT",
-        "kernelsu.permission.BOOT_COMPLETED"
-      ],
-      "features": {
-        "service": true,
-        "post_fs_data": true,
-        "action": true,
-        "webroot": true,
-        "post_mount": true,
-        "boot_completed": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": null,
-        "source": "https://github.com/sidex15/susfs4ksu-module",
-        "antifeatures": null,
-        "build_metadata": "https://mystster.github.io/module-repo/modules/susfs4ksu/track.yaml"
-      },
-      "versions": [
-        {
-          "timestamp": 1746190236.0,
-          "version": "v1.5.2-R18",
-          "versionCode": 105002018,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R18_105002018.zip",
-          "changelog": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R18_105002018.md",
-          "size": 1294363
         }
       ]
     },
