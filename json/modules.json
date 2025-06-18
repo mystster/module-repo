@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1750227928.598313
+    "timestamp": 1750250163.933969
   },
   "modules": [
     {
@@ -265,53 +265,6 @@
           "zipUrl": "https://mystster.github.io/module-repo/modules/livebootmagisk/v4.0.0_40000.zip",
           "changelog": "",
           "size": 499989
-        }
-      ]
-    },
-    {
-      "id": "tricky_store",
-      "name": "Tricky Store",
-      "version": "v1.2.1 (158-51390a7-release)",
-      "versionCode": 158,
-      "author": "5ec1cff",
-      "description": "A trick of keystore",
-      "added": 1723905223.0,
-      "categories": [
-        "System"
-      ],
-      "readme": "https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/README.md",
-      "verified": true,
-      "timestamp": 1738906998.0,
-      "size": 2350601,
-      "permissions": [
-        "magisk.permission.SERVICE",
-        "magisk.permission.POST_FS_DATA",
-        "magisk.permission.SEPOLICY",
-        "mmrl.permission.APKS"
-      ],
-      "features": {
-        "service": true,
-        "post_fs_data": true,
-        "sepolicy": true,
-        "apks": true
-      },
-      "track": {
-        "type": "ONLINE_JSON",
-        "added": 1723905223.0,
-        "source": "https://github.com/5ec1cff/TrickyStore",
-        "antifeatures": [
-          "NoSourceSince"
-        ],
-        "build_metadata": "https://mystster.github.io/module-repo/modules/tricky_store/track.yaml"
-      },
-      "versions": [
-        {
-          "timestamp": 1738906998.0,
-          "version": "v1.2.1 (158-51390a7-release)",
-          "versionCode": 158,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.2.1_158-51390a7-release.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.2.1_158-51390a7-release.md",
-          "size": 2350601
         }
       ]
     },
