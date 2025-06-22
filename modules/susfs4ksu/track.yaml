@@ -1,13 +1,11 @@
-!!python/object/new:mmrl-util.sync.model.AttrDict.AttrDict
-dictitems:
-  download_source: actions
-  enable: true
-  id: susfs4ksu
-  last_update: 1749722572.0
-  readme: https://raw.githubusercontent.com/sidex15/susfs4ksu-module/refs/heads/main/README.md
-  require:
-  - zygisksu
-  source: https://github.com/sidex15/susfs4ksu-module
-  support: https://github.com/sidex15/susfs4ksu-module/issues
-  update_to: https://raw.githubusercontent.com/sidex15/ksu_module_susfs/v1.5.2+/update.json
-  versions: 2
+download_source: actions
+enable: true
+id: susfs4ksu
+last_update: 1749722572.0
+readme: https://raw.githubusercontent.com/sidex15/susfs4ksu-module/refs/heads/main/README.md
+require:
+- zygisksu
+source: https://github.com/sidex15/susfs4ksu-module
+support: https://github.com/sidex15/susfs4ksu-module/issues
+update_to: https://raw.githubusercontent.com/sidex15/ksu_module_susfs/v1.5.2+/update.json
+versions: 2

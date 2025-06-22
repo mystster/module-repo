@@ -1,15 +1,13 @@
-!!python/object/new:mmrl-util.sync.model.AttrDict.AttrDict
-dictitems:
-  added: 1723905223.0
-  antifeatures:
-  - NoSourceSince
-  categories:
-  - System
-  enable: true
-  id: tricky_store
-  last_update: 1750249151.0
-  readme: https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/README.md
-  source: https://github.com/5ec1cff/TrickyStore
-  update_to: https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/update.json
-  verified: true
-  versions: 2
+added: 1723905223.0
+antifeatures:
+- NoSourceSince
+categories:
+- System
+enable: true
+id: tricky_store
+last_update: 1750249151.0
+readme: https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/README.md
+source: https://github.com/5ec1cff/TrickyStore
+update_to: https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/update.json
+verified: true
+versions: 2
