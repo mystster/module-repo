@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1750595495.150142
+    "timestamp": 1750604065.792498
   },
   "modules": [
     {
@@ -50,6 +50,69 @@
           "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BetterKnownInstalled/v1.3.3_1337.zip",
           "changelog": "",
           "size": 1793757
+        }
+      ]
+    },
+    {
+      "id": "Integrity-Box",
+      "name": "Integrity Box \ud83d\udce6",
+      "version": "v6",
+      "versionCode": 600,
+      "author": "\ud835\udde0\ud835\uddd8\ud835\udde2\ud835\uddea\ud835\uddfb\ud835\uddee \ud83d\udc85 || tg@MeowDump",
+      "description": "This module provides real, working keyboxes for free with no hidden charges or scams, along with several powerful features. Smash the WebUI button to discover more!",
+      "support": "https://github.com/MeowDump/Integrity-Box/issues",
+      "readme": "https://raw.githubusercontent.com/MeowDump/Integrity-Boxrefs/heads/main/README.md",
+      "require": [
+        "PlayIntegrityFix",
+        "susfs4ksu",
+        "tricky_store",
+        "TA_util"
+      ],
+      "verified": false,
+      "added": 0,
+      "timestamp": 1749619850.0,
+      "size": 80130,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.RESETPROP",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI",
+        "kernelsu.permission.BOOT_COMPLETED",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "resetprop": true,
+        "action": true,
+        "webroot": true,
+        "boot_completed": true,
+        "apks": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/MeowDump/Integrity-Box",
+        "antifeatures": null,
+        "build_metadata": "https://mystster.github.io/module-repo/modules/Integrity-Box/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1749371446.0,
+          "version": "5",
+          "versionCode": 500,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/5_500.zip",
+          "changelog": "",
+          "size": 123491
+        },
+        {
+          "timestamp": 1749619850.0,
+          "version": "v6",
+          "versionCode": 600,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v6_600.zip",
+          "changelog": "",
+          "size": 80130
         }
       ]
     },
@@ -176,6 +239,62 @@
       ]
     },
     {
+      "id": "TA_utl",
+      "name": "Tricky Addon - Update Target List",
+      "version": "v4.0",
+      "versionCode": 538,
+      "author": "KOWX712",
+      "description": "A WebUI to conifgure tricky store target.txt ",
+      "categories": [
+        "WebUI"
+      ],
+      "support": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/issues",
+      "readme": "https://raw.githubusercontent.com/KOWX712/Tricky-Addon-Update-Target-List/refs/heads/main/README.md",
+      "license": " GPL-3.0",
+      "note": {
+        "message": "This module is not a part of the Tricky Store module. DO NOT report any issues to Tricky Store if encountered"
+      },
+      "verified": false,
+      "added": 0,
+      "timestamp": 1750335605.0,
+      "size": 4286527,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List",
+        "antifeatures": null,
+        "build_metadata": "https://mystster.github.io/module-repo/modules/TA_utl/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1746893051.0,
+          "version": "v3.9",
+          "versionCode": 390,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v3.9_390.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/TA_utl/v3.9_390.md",
+          "size": 1283556
+        },
+        {
+          "timestamp": 1750335605.0,
+          "version": "v4.0",
+          "versionCode": 538,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/TA_utl/v4.0_538.zip",
+          "changelog": "https://mystster.github.io/module-repo/modules/TA_utl/v4.0_538.md",
+          "size": 4286527
+        }
+      ]
+    },
+    {
       "id": "livebootmagisk",
       "name": "LiveBoot",
       "version": "v4.0.0",
@@ -217,6 +336,119 @@
           "zipUrl": "https://mystster.github.io/module-repo/modules/livebootmagisk/v4.0.0_40000.zip",
           "changelog": "",
           "size": 499989
+        }
+      ]
+    },
+    {
+      "id": "susfs4ksu",
+      "name": "SUSFS-FOR-KERNELSU",
+      "version": "v1.5.2-R19",
+      "versionCode": 105002019,
+      "author": "sidex15 & simonpunk",
+      "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
+      "support": "https://github.com/sidex15/susfs4ksu-module/issues",
+      "readme": "https://raw.githubusercontent.com/sidex15/susfs4ksu-module/refs/heads/main/README.md",
+      "require": [
+        "zygisksu"
+      ],
+      "verified": false,
+      "added": 0,
+      "timestamp": 1749722572.0,
+      "size": 1276055,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.ACTION",
+        "kernelsu.permission.WEBUI",
+        "kernelsu.permission.POST_MOUNT",
+        "kernelsu.permission.BOOT_COMPLETED"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "action": true,
+        "webroot": true,
+        "post_mount": true,
+        "boot_completed": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": null,
+        "source": "https://github.com/sidex15/susfs4ksu-module",
+        "antifeatures": null,
+        "build_metadata": "https://mystster.github.io/module-repo/modules/susfs4ksu/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1746190236.0,
+          "version": "v1.5.2-R18",
+          "versionCode": 105002018,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R18_105002018.zip",
+          "changelog": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R18_105002018.md",
+          "size": 1294363
+        },
+        {
+          "timestamp": 1749722572.0,
+          "version": "v1.5.2-R19",
+          "versionCode": 105002019,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R19_105002019.zip",
+          "changelog": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R19_105002019.md",
+          "size": 1276055
+        }
+      ]
+    },
+    {
+      "id": "tricky_store",
+      "name": "Tricky Store",
+      "version": "v1.3.0 (180-8acfa57-release)",
+      "versionCode": 180,
+      "author": "5ec1cff",
+      "description": "A trick of keystore",
+      "added": 1723905223.0,
+      "categories": [
+        "System"
+      ],
+      "readme": "https://raw.githubusercontent.com/5ec1cff/TrickyStore/refs/heads/release/README.md",
+      "verified": true,
+      "timestamp": 1750249151.0,
+      "size": 2694118,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "mmrl.permission.APKS"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "apks": true
+      },
+      "track": {
+        "type": "ONLINE_JSON",
+        "added": 1723905223.0,
+        "source": "https://github.com/5ec1cff/TrickyStore",
+        "antifeatures": [
+          "NoSourceSince"
+        ],
+        "build_metadata": "https://mystster.github.io/module-repo/modules/tricky_store/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1738906998.0,
+          "version": "v1.2.1 (158-51390a7-release)",
+          "versionCode": 158,
+          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.2.1_158-51390a7-release.zip",
+          "changelog": "https://zguation-projects.github.io/ZG-R/modules/tricky_store/v1.2.1_158-51390a7-release.md",
+          "size": 2350601
+        },
+        {
+          "timestamp": 1750249151.0,
+          "version": "v1.3.0 (180-8acfa57-release)",
+          "versionCode": 180,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/tricky_store/v1.3.0_180-8acfa57-release.zip",
+          "changelog": "https://mystster.github.io/module-repo/modules/tricky_store/v1.3.0_180-8acfa57-release.md",
+          "size": 2694118
         }
       ]
     },
@@ -419,6 +651,58 @@
           "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.1_7184.zip",
           "changelog": "",
           "size": 6418447
+        }
+      ]
+    },
+    {
+      "id": "zygisksu",
+      "name": "ReZygisk",
+      "version": "v1.0.0 (378-aff2ad8-release)",
+      "versionCode": 378,
+      "author": "The PerformanC Organization",
+      "description": "Standalone implementation of Zygisk.",
+      "support": "https://github.com/PerformanC/ReZygisk/issues",
+      "license": "GPL-3.0",
+      "readme": "https://raw.githubusercontent.com/PerformanC/ReZygiskrefs/heads/mainREADME.md",
+      "verified": false,
+      "added": 0,
+      "timestamp": 1750569218.0,
+      "size": 435288,
+      "permissions": [
+        "magisk.permission.SERVICE",
+        "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
+        "kernelsu.permission.WEBUI"
+      ],
+      "features": {
+        "service": true,
+        "post_fs_data": true,
+        "sepolicy": true,
+        "webroot": true
+      },
+      "track": {
+        "type": "GIT",
+        "added": null,
+        "source": "https://github.com/PerformanC/ReZygisk",
+        "antifeatures": null,
+        "build_metadata": "https://mystster.github.io/module-repo/modules/zygisksu/track.yaml"
+      },
+      "versions": [
+        {
+          "timestamp": 1749607324.0,
+          "version": "v1.0.0 (373-d111a2d-release)",
+          "versionCode": 373,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0_373-d111a2d-release.zip",
+          "changelog": "",
+          "size": 434301
+        },
+        {
+          "timestamp": 1750569218.0,
+          "version": "v1.0.0 (378-aff2ad8-release)",
+          "versionCode": 378,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0_378-aff2ad8-release.zip",
+          "changelog": "",
+          "size": 435288
         }
       ]
     }
