@@ -1,9 +1,9 @@
+enable: true
+id: zygisk_lsposed
+last_update: 1750763256.0
 options:
   github:
     source: actions
-enable: true
-id: zygisk_lsposed
-last_update: 1749120208.0
 readme: https://raw.githubusercontent.com/JingMatrix/LSPosed/refs/heads/mainREADME.md
 require:
 - zygisksu
