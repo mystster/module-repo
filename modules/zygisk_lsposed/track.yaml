@@ -1,4 +1,6 @@
-download_source: actions
+options:
+  github:
+    source: actions
 enable: true
 id: zygisk_lsposed
 last_update: 1749120208.0

@@ -1,4 +1,6 @@
-download_source: actions
+options:
+  github:
+    source: actions
 enable: true
 id: susfs4ksu
 last_update: 1749722572.0

@@ -1,4 +1,6 @@
-download_source: actions
+options:
+  github:
+    source: actions
 enable: true
 id: zygisksu
 last_update: 1750628252.0
