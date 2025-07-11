@@ -40,8 +40,8 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: mmrl-util
-          repository: mystster/MMRL-Util
-          ref: fix-yaml-tag
+          repository: MMRLApp/MMRL-Util
+          ref: main
       - name: Set up Git
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
