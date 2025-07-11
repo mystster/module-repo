@@ -1,9 +1,9 @@
+enable: true
+id: susfs4ksu
+last_update: 1752162010.0
 options:
   github:
     source: actions
-enable: true
-id: susfs4ksu
-last_update: 1749722572.0
 readme: https://raw.githubusercontent.com/sidex15/susfs4ksu-module/refs/heads/main/README.md
 require:
 - zygisksu
