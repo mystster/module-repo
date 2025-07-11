@@ -40,7 +40,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: mmrl-util
-          repository: MMRLApp/MMRL-Util
+          repository: mystster/MMRL-Util
           ref: main
       - name: Set up Git
         run: |
