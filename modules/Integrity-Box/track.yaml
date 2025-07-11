@@ -9,5 +9,5 @@ require:
 - TA_util
 source: https://github.com/MeowDump/Integrity-Box
 support: https://github.com/MeowDump/Integrity-Box/issues
-update_to: https://github.com/MeowDump/Integrity-Box.git
+update_to: v9-Integrity-Box-11-07-2025.zip
 versions: 2
