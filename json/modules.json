@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1753925308.303076
+    "timestamp": 1753943305.193823
   },
   "modules": [
     {
@@ -597,10 +597,10 @@
     {
       "id": "zygisk_lsposed",
       "name": "Zygisk - LSPosed",
-      "version": "v1.10.1 (7186)",
-      "versionCode": 7186,
-      "author": "Jing Matrix & LSPosed Developers",
-      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 15. Requires Magisk 26.0+ and Zygisk enabled.",
+      "version": "v1.10.2 (7187)",
+      "versionCode": 7187,
+      "author": "JingMatrix & LSPosed Developers",
+      "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16. Requires Magisk 26.0+ and Zygisk enabled.",
       "support": "https://github.com/JingMatrix/LSPosed/issues",
       "readme": "https://raw.githubusercontent.com/JingMatrix/LSPosed/refs/heads/mainREADME.md",
       "require": [
@@ -608,15 +608,14 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1750851458.0,
-      "size": 6417745,
+      "timestamp": 1753928210.0,
+      "size": 6506384,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.RESETPROP",
         "magisk.permission.SEPOLICY",
         "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI",
         "mmrl.permission.APKS"
       ],
       "features": {
@@ -625,7 +624,6 @@
         "resetprop": true,
         "sepolicy": true,
         "action": true,
-        "webroot": true,
         "apks": true
       },
       "track": {
@@ -637,28 +635,28 @@
       },
       "versions": [
         {
-          "timestamp": 1750763256.0,
-          "version": "v1.10.1 (7185)",
-          "versionCode": 7185,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.1_7185.zip",
-          "changelog": "",
-          "size": 6420837
-        },
-        {
           "timestamp": 1750851458.0,
           "version": "v1.10.1 (7186)",
           "versionCode": 7186,
           "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.1_7186.zip",
           "changelog": "",
           "size": 6417745
+        },
+        {
+          "timestamp": 1753928210.0,
+          "version": "v1.10.2 (7187)",
+          "versionCode": 7187,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.2_7187.zip",
+          "changelog": "",
+          "size": 6506384
         }
       ]
     },
     {
       "id": "zygisksu",
       "name": "ReZygisk",
-      "version": "v1.0.0 (398-e0ce147-release)",
-      "versionCode": 398,
+      "version": "v1.0.0 (399-a7917e2-release)",
+      "versionCode": 399,
       "author": "The PerformanC Organization",
       "description": "Standalone implementation of Zygisk.",
       "support": "https://github.com/PerformanC/ReZygisk/issues",
@@ -666,8 +664,8 @@
       "readme": "https://raw.githubusercontent.com/PerformanC/ReZygiskrefs/heads/mainREADME.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1753050548.0,
-      "size": 440501,
+      "timestamp": 1753931429.0,
+      "size": 434831,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -689,20 +687,20 @@
       },
       "versions": [
         {
-          "timestamp": 1753031624.0,
-          "version": "v1.0.0 (397-bf3c73d-release)",
-          "versionCode": 397,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0_397-bf3c73d-release.zip",
-          "changelog": "",
-          "size": 439337
-        },
-        {
           "timestamp": 1753050548.0,
           "version": "v1.0.0 (398-e0ce147-release)",
           "versionCode": 398,
           "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0_398-e0ce147-release.zip",
           "changelog": "",
           "size": 440501
+        },
+        {
+          "timestamp": 1753931429.0,
+          "version": "v1.0.0 (399-a7917e2-release)",
+          "versionCode": 399,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0_399-a7917e2-release.zip",
+          "changelog": "",
+          "size": 434831
         }
       ]
     }
