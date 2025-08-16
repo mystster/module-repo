@@ -3,20 +3,20 @@
   "timestamp": 1750569218.0,
   "versions": [
     {
-      "timestamp": 1755133649.0,
-      "version": "v1.0.0 (405-70805bb-release)",
-      "versionCode": 405,
-      "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0_405-70805bb-release.zip",
-      "changelog": "",
-      "size": 442073
-    },
-    {
       "timestamp": 1755250335.0,
       "version": "v1.0.0 (406-0c7a756-release)",
       "versionCode": 406,
       "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0_406-0c7a756-release.zip",
       "changelog": "",
       "size": 442239
+    },
+    {
+      "timestamp": 1755304415.0,
+      "version": "v1.0.0 (407-3688df6-release)",
+      "versionCode": 407,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0_407-3688df6-release.zip",
+      "changelog": "",
+      "size": 442226
     }
   ]
 }
