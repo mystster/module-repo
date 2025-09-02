@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1756750934.558947
+    "timestamp": 1756775822.847364
   },
   "modules": [
     {
@@ -655,8 +655,8 @@
     {
       "id": "zygisksu",
       "name": "ReZygisk",
-      "version": "v1.0.0 (408-0f27e45-release)",
-      "versionCode": 408,
+      "version": "v1.0.0 (409-c7a80f0-release)",
+      "versionCode": 409,
       "author": "The PerformanC Organization",
       "description": "Standalone implementation of Zygisk.",
       "support": "https://github.com/PerformanC/ReZygisk/issues",
@@ -664,8 +664,8 @@
       "readme": "https://raw.githubusercontent.com/PerformanC/ReZygiskrefs/heads/mainREADME.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1756056035.0,
-      "size": 442530,
+      "timestamp": 1756767051.0,
+      "size": 437576,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -687,20 +687,20 @@
       },
       "versions": [
         {
-          "timestamp": 1755304415.0,
-          "version": "v1.0.0 (407-3688df6-release)",
-          "versionCode": 407,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0_407-3688df6-release.zip",
-          "changelog": "",
-          "size": 442226
-        },
-        {
           "timestamp": 1756056035.0,
           "version": "v1.0.0 (408-0f27e45-release)",
           "versionCode": 408,
           "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0_408-0f27e45-release.zip",
           "changelog": "",
           "size": 442530
+        },
+        {
+          "timestamp": 1756767051.0,
+          "version": "v1.0.0 (409-c7a80f0-release)",
+          "versionCode": 409,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0_409-c7a80f0-release.zip",
+          "changelog": "",
+          "size": 437576
         }
       ]
     }
