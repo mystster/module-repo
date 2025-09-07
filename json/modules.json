@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1757248183.187386
+    "timestamp": 1757269215.761041
   },
   "modules": [
     {
@@ -350,8 +350,8 @@
     {
       "id": "susfs4ksu",
       "name": "SUSFS-FOR-KERNELSU",
-      "version": "v1.5.2-R20",
-      "versionCode": 105002020,
+      "version": "v1.5.2-R21",
+      "versionCode": 105002021,
       "author": "sidex15 & simonpunk",
       "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
       "support": "https://github.com/sidex15/susfs4ksu-module/issues",
@@ -361,11 +361,12 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1752162010.0,
-      "size": 1354763,
+      "timestamp": 1757250766.0,
+      "size": 1358238,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
+        "magisk.permission.SEPOLICY",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI",
         "kernelsu.permission.POST_MOUNT",
@@ -374,6 +375,7 @@
       "features": {
         "service": true,
         "post_fs_data": true,
+        "sepolicy": true,
         "action": true,
         "webroot": true,
         "post_mount": true,
@@ -388,20 +390,20 @@
       },
       "versions": [
         {
-          "timestamp": 1749722572.0,
-          "version": "v1.5.2-R19",
-          "versionCode": 105002019,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R19_105002019.zip",
-          "changelog": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R19_105002019.md",
-          "size": 1276055
-        },
-        {
           "timestamp": 1752162010.0,
           "version": "v1.5.2-R20",
           "versionCode": 105002020,
           "zipUrl": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R20_105002020.zip",
           "changelog": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R20_105002020.md",
           "size": 1354763
+        },
+        {
+          "timestamp": 1757250766.0,
+          "version": "v1.5.2-R21",
+          "versionCode": 105002021,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R21_105002021.zip",
+          "changelog": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R21_105002021.md",
+          "size": 1358238
         }
       ]
     },
