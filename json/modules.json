@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1760855017.141503
+    "timestamp": 1760877069.79241
   },
   "modules": [
     {
@@ -350,8 +350,8 @@
     {
       "id": "susfs4ksu",
       "name": "SUSFS-FOR-KERNELSU",
-      "version": "v1.5.2-R22",
-      "versionCode": 105002022,
+      "version": "v1.5.2-R23",
+      "versionCode": 105002023,
       "author": "sidex15 & simonpunk",
       "description": "An addon root hiding service for KernelSU compiled with patched kernel source.",
       "support": "https://github.com/sidex15/susfs4ksu-module/issues",
@@ -361,8 +361,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1758867240.0,
-      "size": 1161002,
+      "timestamp": 1760862849.0,
+      "size": 1156068,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -390,20 +390,20 @@
       },
       "versions": [
         {
-          "timestamp": 1757250766.0,
-          "version": "v1.5.2-R21",
-          "versionCode": 105002021,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R21_105002021.zip",
-          "changelog": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R21_105002021.md",
-          "size": 1358238
-        },
-        {
           "timestamp": 1758867240.0,
           "version": "v1.5.2-R22",
           "versionCode": 105002022,
           "zipUrl": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R22_105002022.zip",
           "changelog": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R22_105002022.md",
           "size": 1161002
+        },
+        {
+          "timestamp": 1760862849.0,
+          "version": "v1.5.2-R23",
+          "versionCode": 105002023,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R23_105002023.zip",
+          "changelog": "https://mystster.github.io/module-repo/modules/susfs4ksu/v1.5.2-R23_105002023.md",
+          "size": 1156068
         }
       ]
     },
