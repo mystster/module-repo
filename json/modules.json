@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1761050194.624199
+    "timestamp": 1761071029.444586
   },
   "modules": [
     {
@@ -247,8 +247,8 @@
     {
       "id": "TA_utl",
       "name": "Tricky Addon - Update Target List",
-      "version": "v4.1",
-      "versionCode": 572,
+      "version": "v4.2",
+      "versionCode": 618,
       "author": "KOWX712",
       "description": "A WebUI to conifgure tricky store target.txt ",
       "categories": [
@@ -262,8 +262,8 @@
       "license": " GPL-3.0",
       "verified": false,
       "added": 0,
-      "timestamp": 1753440707.0,
-      "size": 4300641,
+      "timestamp": 1761057007.0,
+      "size": 3117854,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -283,20 +283,20 @@
       },
       "versions": [
         {
-          "timestamp": 1750335605.0,
-          "version": "v4.0",
-          "versionCode": 538,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/TA_utl/v4.0_538.zip",
-          "changelog": "https://mystster.github.io/module-repo/modules/TA_utl/v4.0_538.md",
-          "size": 4286527
-        },
-        {
           "timestamp": 1753440707.0,
           "version": "v4.1",
           "versionCode": 572,
           "zipUrl": "https://mystster.github.io/module-repo/modules/TA_utl/v4.1_572.zip",
           "changelog": "https://mystster.github.io/module-repo/modules/TA_utl/v4.1_572.md",
           "size": 4300641
+        },
+        {
+          "timestamp": 1761057007.0,
+          "version": "v4.2",
+          "versionCode": 618,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/TA_utl/v4.2_618.zip",
+          "changelog": "https://mystster.github.io/module-repo/modules/TA_utl/v4.2_618.md",
+          "size": 3117854
         }
       ]
     },
@@ -665,8 +665,8 @@
     {
       "id": "zygisksu",
       "name": "ReZygisk",
-      "version": "v1.0.0 (417-67d7efa-release)",
-      "versionCode": 417,
+      "version": "v1.0.0 (421-6bd436a-release)",
+      "versionCode": 421,
       "author": "The PerformanC Organization",
       "description": "Standalone implementation of Zygisk.",
       "support": "https://github.com/PerformanC/ReZygisk/issues",
@@ -674,8 +674,8 @@
       "readme": "https://raw.githubusercontent.com/PerformanC/ReZygiskrefs/heads/mainREADME.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1758593634.0,
-      "size": 438893,
+      "timestamp": 1761064273.0,
+      "size": 440816,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -697,20 +697,20 @@
       },
       "versions": [
         {
-          "timestamp": 1758046555.0,
-          "version": "v1.0.0 (415-6b92907-release)",
-          "versionCode": 415,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0_415-6b92907-release.zip",
-          "changelog": "",
-          "size": 438153
-        },
-        {
           "timestamp": 1758593634.0,
           "version": "v1.0.0 (417-67d7efa-release)",
           "versionCode": 417,
           "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0_417-67d7efa-release.zip",
           "changelog": "",
           "size": 438893
+        },
+        {
+          "timestamp": 1761064273.0,
+          "version": "v1.0.0 (421-6bd436a-release)",
+          "versionCode": 421,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/v1.0.0_421-6bd436a-release.zip",
+          "changelog": "",
+          "size": 440816
         }
       ]
     }
