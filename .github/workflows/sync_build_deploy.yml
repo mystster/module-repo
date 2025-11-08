@@ -36,12 +36,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           ref: ${{ github.ref }}
-      - name: Modified MMRL-Util checkout
-        uses: actions/checkout@v4
-        with:
-          path: mmrl-util
-          repository: mystster/MMRL-Util
-          ref: dev
+
       - name: Set up Git
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
@@ -53,19 +48,16 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        working-directory: ./mmrl-util # チェックアウトした mmrl-util ディレクトリに移動
         run: |
           python -m pip install --upgrade pip
-          pip install setuptools wheel
-          pip install -r requirements.txt
-          pip install .
+          pip install mmrl-util
 
       - name: Sync
         if: ${{ env.IS_SYNC == 'true' }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python -m mmrl-util.sync sync --diff versions_diff.md
+          mmrl-util sync --diff versions_diff.md
 
       - name: Write versions diff to summary
         if: ${{ env.IS_SYNC == 'true' }}
@@ -81,7 +73,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python -m mmrl-util.sync index --list > latest_versions.md
+          mmrl-util index --list > latest_versions.md
           echo "## Latest Versions" >> $GITHUB_STEP_SUMMARY
           echo "$(cat latest_versions.md)" >> $GITHUB_STEP_SUMMARY
           rm latest_versions.md
@@ -91,7 +83,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python -m mmrl-util.sync index --push
+          mmrl-util index --push
 
       - name: Upload logs
         uses: actions/upload-artifact@v4
