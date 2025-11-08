@@ -1,8 +1,0 @@
-enable: true
-id: livebootmagisk
-last_update: 1752420979.0
-readme: https://raw.githubusercontent.com/symbuzzer/livebootmodule/refs/heads/main/README.md
-source: https://github.com/symbuzzer/livebootmodule
-support: https://github.com/symbuzzer/livebootmodule/issues
-update_to: https://github.com/symbuzzer/livebootmodule.git
-versions: 2
