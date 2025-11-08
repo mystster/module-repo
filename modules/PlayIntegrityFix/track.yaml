@@ -1,18 +1,12 @@
-id: PlayIntegrityFix
-enable: false
-verified: false
-update_to: https://github.com/chiteroman/PlayIntegrityFix.git
-license: GPL-3.0
-source: https://github.com/chiteroman/PlayIntegrityFix
-support: https://github.com/chiteroman/PlayIntegrityFix/issues
-categories:
-- Font
-- Network
-- Script
-- Theme
-readme: https://raw.githubusercontent.com/chiteroman/PlayIntegrityFix/main/README.md
-last_update: 1747493975.0
-versions: 2
+enable: true
+id: playintegrityfix
 options:
   github:
     source: actions
+readme: https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/refs/heads/mainREADME.md
+require:
+- zygisksu
+source: https://github.com/osm0sis/PlayIntegrityFork
+support: https://github.com/osm0sis/PlayIntegrityFork/issues
+update_to: https://github.com/osm0sis/PlayIntegrityFork.git
+versions: 2
