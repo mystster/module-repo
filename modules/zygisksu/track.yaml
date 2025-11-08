@@ -2,11 +2,8 @@ enable: true
 id: zygisksu
 last_update: 1761085964.0
 license: GPL-3.0
-options:
-  github:
-    source: actions
-readme: https://raw.githubusercontent.com/PerformanC/ReZygiskrefs/heads/mainREADME.md
-source: https://github.com/PerformanC/ReZygisk
-support: https://github.com/PerformanC/ReZygisk/issues
-update_to: https://github.com/PerformanC/ReZygisk.git
+readme: https://raw.githubusercontent.com/Dr-TSNG/ZygiskNext/refs/heads/copyright/README.md
+source: https://github.com/Dr-TSNG/ZygiskNext
+support: https://github.com/Dr-TSNG/ZygiskNext/issues
+update_to: https://github.com/Dr-TSNG/ZygiskNext.git
 versions: 2
