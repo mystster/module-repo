@@ -1,0 +1,10 @@
+enable: true
+id: zygisk_shamiko
+last_update: 1740269915.0
+readme: https://raw.githubusercontent.com/LSPosed/LSPosed.github.io/refs/heads/master/README.md
+require:
+- zygisksu
+source: https://github.com/LSPosed/LSPosed.github.io
+support: https://github.com/LSPosed/LSPosed.github.io/issues
+update_to: https://raw.githubusercontent.com/LSPosed/LSPosed.github.io/refs/heads/master/releases/shamiko.json
+versions: 2
