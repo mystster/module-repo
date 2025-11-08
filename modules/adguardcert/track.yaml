@@ -1,7 +1,8 @@
 enable: true
 id: adguardcert
+last_update: 1705998505.0
 readme: https://raw.githubusercontent.com/AdguardTeam/adguardcert/refs/heads/master/README.md
 source: https://github.com/AdguardTeam/adguardcert
 support: https://github.com/AdguardTeam/adguardcert/issues
 update_to: https://github.com/AdguardTeam/adguardcert.git
-versions: 2
+versions: 1

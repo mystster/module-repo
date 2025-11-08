@@ -1,8 +1,9 @@
 enable: true
 id: zygisksu
+last_update: 1762252058.0
 license: GPL-3.0
 readme: https://raw.githubusercontent.com/Dr-TSNG/ZygiskNext/refs/heads/copyright/README.md
 source: https://github.com/Dr-TSNG/ZygiskNext
 support: https://github.com/Dr-TSNG/ZygiskNext/issues
 update_to: https://github.com/Dr-TSNG/ZygiskNext.git
-versions: 2
+versions: 1

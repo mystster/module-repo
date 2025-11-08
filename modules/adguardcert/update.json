@@ -1,0 +1,14 @@
+{
+  "id": "adguardcert",
+  "timestamp": 1705998505.0,
+  "versions": [
+    {
+      "timestamp": 1705998505.0,
+      "version": "v2.1",
+      "versionCode": 36,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/adguardcert/v2.1_36.zip",
+      "changelog": "",
+      "size": 3829
+    }
+  ]
+}

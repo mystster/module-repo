@@ -1,0 +1,14 @@
+{
+  "id": "playintegrityfix",
+  "timestamp": 1761962465.0,
+  "versions": [
+    {
+      "timestamp": 1761962465.0,
+      "version": "v14",
+      "versionCode": 141001,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v14_141001.zip",
+      "changelog": "",
+      "size": 276882
+    }
+  ]
+}
