@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1762842410.77138
+    "timestamp": 1762864558.737002
   },
   "modules": [
     {
@@ -412,8 +412,8 @@
     {
       "id": "zygisk_lsposed",
       "name": "Zygisk - LSPosed",
-      "version": "v1.10.2 (7197)",
-      "versionCode": 7197,
+      "version": "v1.10.2 (7198)",
+      "versionCode": 7198,
       "author": "JingMatrix & LSPosed Developers",
       "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16. Requires Magisk 26.0+ and Zygisk enabled.",
       "support": "https://github.com/JingMatrix/LSPosed/issues",
@@ -423,8 +423,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1762632433.0,
-      "size": 6483957,
+      "timestamp": 1762850992.0,
+      "size": 6484041,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -450,20 +450,20 @@
       },
       "versions": [
         {
-          "timestamp": 1762619697.0,
-          "version": "v1.10.2 (7196)",
-          "versionCode": 7196,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.2_7196.zip",
-          "changelog": "",
-          "size": 6483775
-        },
-        {
           "timestamp": 1762632433.0,
           "version": "v1.10.2 (7197)",
           "versionCode": 7197,
           "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.2_7197.zip",
           "changelog": "",
           "size": 6483957
+        },
+        {
+          "timestamp": 1762850992.0,
+          "version": "v1.10.2 (7198)",
+          "versionCode": 7198,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.2_7198.zip",
+          "changelog": "",
+          "size": 6484041
         }
       ]
     },
