@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1762951005.250234
+    "timestamp": 1762971893.322491
   },
   "modules": [
     {
@@ -412,8 +412,8 @@
     {
       "id": "zygisk_lsposed",
       "name": "Zygisk - LSPosed",
-      "version": "v1.10.2 (7198)",
-      "versionCode": 7198,
+      "version": "v1.10.2 (7199)",
+      "versionCode": 7199,
       "author": "JingMatrix & LSPosed Developers",
       "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16. Requires Magisk 26.0+ and Zygisk enabled.",
       "support": "https://github.com/JingMatrix/LSPosed/issues",
@@ -423,11 +423,10 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1762850992.0,
-      "size": 6484041,
+      "timestamp": 1762965086.0,
+      "size": 6483119,
       "permissions": [
         "magisk.permission.SERVICE",
-        "magisk.permission.POST_FS_DATA",
         "magisk.permission.RESETPROP",
         "magisk.permission.SEPOLICY",
         "magisk.permission.ACTION",
@@ -435,7 +434,6 @@
       ],
       "features": {
         "service": true,
-        "post_fs_data": true,
         "resetprop": true,
         "sepolicy": true,
         "action": true,
@@ -450,20 +448,20 @@
       },
       "versions": [
         {
-          "timestamp": 1762632433.0,
-          "version": "v1.10.2 (7197)",
-          "versionCode": 7197,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.2_7197.zip",
-          "changelog": "",
-          "size": 6483957
-        },
-        {
           "timestamp": 1762850992.0,
           "version": "v1.10.2 (7198)",
           "versionCode": 7198,
           "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.2_7198.zip",
           "changelog": "",
           "size": 6484041
+        },
+        {
+          "timestamp": 1762965086.0,
+          "version": "v1.10.2 (7199)",
+          "versionCode": 7199,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.2_7199.zip",
+          "changelog": "",
+          "size": 6483119
         }
       ]
     },
