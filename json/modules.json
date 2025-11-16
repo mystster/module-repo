@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1763274281.289526
+    "timestamp": 1763296301.917223
   },
   "modules": [
     {
@@ -514,8 +514,8 @@
     {
       "id": "zygisksu",
       "name": "Zygisk Next",
-      "version": "1.3.0 (648-4d40f10-release)",
-      "versionCode": 648,
+      "version": "1.3.1 (665-7e5b533-release)",
+      "versionCode": 665,
       "author": "5ec1cff, Nullptr",
       "description": "Standalone implementation of Zygisk.",
       "support": "https://github.com/Dr-TSNG/ZygiskNext/issues",
@@ -523,8 +523,8 @@
       "readme": "https://raw.githubusercontent.com/Dr-TSNG/ZygiskNext/refs/heads/copyright/README.md",
       "verified": false,
       "added": 0,
-      "timestamp": 1762252058.0,
-      "size": 6347253,
+      "timestamp": 1763287328.0,
+      "size": 6380762,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -552,6 +552,14 @@
           "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/1.3.0_648-4d40f10-release.zip",
           "changelog": "",
           "size": 6347253
+        },
+        {
+          "timestamp": 1763287328.0,
+          "version": "1.3.1 (665-7e5b533-release)",
+          "versionCode": 665,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisksu/1.3.1_665-7e5b533-release.zip",
+          "changelog": "",
+          "size": 6380762
         }
       ]
     }
