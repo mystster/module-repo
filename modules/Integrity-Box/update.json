@@ -9,6 +9,14 @@
       "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v25_25000.zip",
       "changelog": "",
       "size": 84440
+    },
+    {
+      "timestamp": 1763312990.0,
+      "version": "v26",
+      "versionCode": 26000,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v26_26000.zip",
+      "changelog": "",
+      "size": 84976
     }
   ]
 }

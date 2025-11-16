@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1763296301.917223
+    "timestamp": 1763317332.770691
   },
   "modules": [
     {
@@ -64,8 +64,8 @@
     {
       "id": "Integrity-Box",
       "name": ".\ud835\ude44\ud835\ude63\ud835\ude69\ud835\ude5a\ud835\ude5c\ud835\ude67\ud835\ude5e\ud835\ude69\ud835\ude6e \ud835\ude3d\ud835\ude64\ud835\ude6d \ud83d\udce6",
-      "version": "v25",
-      "versionCode": 25000,
+      "version": "v26",
+      "versionCode": 26000,
       "author": "\ud835\udde0\ud835\uddd8\ud835\udde2\ud835\uddea\ud835\uddfb\ud835\uddee \ud83d\udc85 || tg@MeowDump",
       "description": "A toolkit for managing Play Integrity & System Environment",
       "support": "https://github.com/MeowDump/Integrity-Box/issues",
@@ -77,8 +77,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1762360157.0,
-      "size": 84440,
+      "timestamp": 1763312990.0,
+      "size": 84976,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -108,6 +108,14 @@
           "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v25_25000.zip",
           "changelog": "",
           "size": 84440
+        },
+        {
+          "timestamp": 1763312990.0,
+          "version": "v26",
+          "versionCode": 26000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v26_26000.zip",
+          "changelog": "",
+          "size": 84976
         }
       ]
     },
