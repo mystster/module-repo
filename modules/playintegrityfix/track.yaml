@@ -1,6 +1,6 @@
 enable: true
 id: playintegrityfix
-last_update: 1761962465.0
+last_update: 1763782410.0
 options:
   github:
     source: actions
@@ -10,4 +10,4 @@ require:
 source: https://github.com/osm0sis/PlayIntegrityFork
 support: https://github.com/osm0sis/PlayIntegrityFork/issues
 update_to: https://github.com/osm0sis/PlayIntegrityFork.git
-versions: 1
+versions: 2

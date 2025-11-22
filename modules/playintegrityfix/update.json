@@ -9,6 +9,14 @@
       "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v14_141001.zip",
       "changelog": "",
       "size": 276882
+    },
+    {
+      "timestamp": 1763782410.0,
+      "version": "v15",
+      "versionCode": 150000,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v15_150000.zip",
+      "changelog": "",
+      "size": 276953
     }
   ]
 }

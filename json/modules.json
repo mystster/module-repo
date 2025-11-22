@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1763774186.381673
+    "timestamp": 1763792615.940634
   },
   "modules": [
     {
@@ -159,8 +159,8 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fork",
-      "version": "v14",
-      "versionCode": 141001,
+      "version": "v15",
+      "versionCode": 150000,
       "author": "osm0sis & chiteroman @ xda-developers",
       "description": "Fix <A13 Play Integrity DEVICE verdict",
       "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
@@ -170,8 +170,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1761962465.0,
-      "size": 276882,
+      "timestamp": 1763782410.0,
+      "size": 276953,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -197,6 +197,14 @@
           "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v14_141001.zip",
           "changelog": "",
           "size": 276882
+        },
+        {
+          "timestamp": 1763782410.0,
+          "version": "v15",
+          "versionCode": 150000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v15_150000.zip",
+          "changelog": "",
+          "size": 276953
         }
       ]
     },
