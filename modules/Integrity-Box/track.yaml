@@ -1,6 +1,6 @@
 enable: true
 id: Integrity-Box
-last_update: 1763312990.0
+last_update: 1764079555.0
 readme: https://raw.githubusercontent.com/MeowDump/Integrity-Boxrefs/heads/main/README.md
 require:
 - PlayIntegrityFix

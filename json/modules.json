@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1764074263.166425
+    "timestamp": 1764095245.025297
   },
   "modules": [
     {
@@ -64,10 +64,10 @@
     {
       "id": "Integrity-Box",
       "name": ".\ud835\ude44\ud835\ude63\ud835\ude69\ud835\ude5a\ud835\ude5c\ud835\ude67\ud835\ude5e\ud835\ude69\ud835\ude6e \ud835\ude3d\ud835\ude64\ud835\ude6d \ud83d\udce6",
-      "version": "v26",
-      "versionCode": 26000,
+      "version": "v27",
+      "versionCode": 27000,
       "author": "\ud835\udde0\ud835\uddd8\ud835\udde2\ud835\uddea\ud835\uddfb\ud835\uddee \ud83d\udc85 || tg@MeowDump",
-      "description": "A toolkit for managing Play Integrity & System Environment",
+      "description": "As long as I'm alive, there are infinite possibilities ",
       "support": "https://github.com/MeowDump/Integrity-Box/issues",
       "readme": "https://raw.githubusercontent.com/MeowDump/Integrity-Boxrefs/heads/main/README.md",
       "require": [
@@ -77,8 +77,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1763312990.0,
-      "size": 84976,
+      "timestamp": 1764079555.0,
+      "size": 97315,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -102,20 +102,20 @@
       },
       "versions": [
         {
-          "timestamp": 1762360157.0,
-          "version": "v25",
-          "versionCode": 25000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v25_25000.zip",
-          "changelog": "",
-          "size": 84440
-        },
-        {
           "timestamp": 1763312990.0,
           "version": "v26",
           "versionCode": 26000,
           "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v26_26000.zip",
           "changelog": "",
           "size": 84976
+        },
+        {
+          "timestamp": 1764079555.0,
+          "version": "v27",
+          "versionCode": 27000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v27_27000.zip",
+          "changelog": "",
+          "size": 97315
         }
       ]
     },
