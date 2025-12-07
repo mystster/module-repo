@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1765110768.939595
+    "timestamp": 1765131819.537508
   },
   "modules": [
     {
@@ -84,7 +84,8 @@
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.RESETPROP",
         "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI"
+        "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG"
       ],
       "features": {
         "service": true,
@@ -175,7 +176,8 @@
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
-        "magisk.permission.ACTION"
+        "magisk.permission.ACTION",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,
@@ -230,6 +232,7 @@
         "magisk.permission.SEPOLICY",
         "magisk.permission.ACTION",
         "kernelsu.permission.WEBUI",
+        "mmrl.permission.WEBUI_CONFIG",
         "kernelsu.permission.POST_MOUNT",
         "kernelsu.permission.BOOT_COMPLETED"
       ],
@@ -446,7 +449,8 @@
         "magisk.permission.RESETPROP",
         "magisk.permission.SEPOLICY",
         "magisk.permission.ACTION",
-        "mmrl.permission.APKS"
+        "mmrl.permission.APKS",
+        "mmrl.permission.DEXS"
       ],
       "features": {
         "service": true,
