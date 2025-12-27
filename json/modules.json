@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1766798566.087889
+    "timestamp": 1766816852.572024
   },
   "modules": [
     {
@@ -95,7 +95,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1217,
+      "stars": 1218,
       "track": {
         "type": "GIT",
         "added": null,
@@ -163,8 +163,8 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fork",
-      "version": "v15",
-      "versionCode": 150001,
+      "version": "v16",
+      "versionCode": 160000,
       "author": "osm0sis & chiteroman @ xda-developers",
       "description": "Fix <A13 Play Integrity DEVICE verdict",
       "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
@@ -174,8 +174,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1766280627.0,
-      "size": 282753,
+      "timestamp": 1766802217.0,
+      "size": 282993,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -187,7 +187,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3535,
+      "stars": 3540,
       "track": {
         "type": "GIT",
         "added": null,
@@ -197,20 +197,20 @@
       },
       "versions": [
         {
-          "timestamp": 1763782410.0,
-          "version": "v15",
-          "versionCode": 150000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v15_150000.zip",
-          "changelog": "",
-          "size": 276953
-        },
-        {
           "timestamp": 1766280627.0,
           "version": "v15",
           "versionCode": 150001,
           "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v15_150001.zip",
           "changelog": "",
           "size": 282753
+        },
+        {
+          "timestamp": 1766802217.0,
+          "version": "v16",
+          "versionCode": 160000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v16_160000.zip",
+          "changelog": "",
+          "size": 282993
         }
       ]
     },
@@ -303,7 +303,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 4874,
+      "stars": 4877,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -358,7 +358,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2280,
+      "stars": 2281,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -522,7 +522,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22380,
+      "stars": 22383,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -567,7 +567,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8133,
+      "stars": 8136,
       "track": {
         "type": "GIT",
         "added": null,

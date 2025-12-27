@@ -1,6 +1,6 @@
 enable: true
 id: playintegrityfix
-last_update: 1766280627.0
+last_update: 1766802217.0
 options:
   github:
     source: actions
