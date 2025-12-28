@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1766886165.701234
+    "timestamp": 1766903271.703681
   },
   "modules": [
     {
@@ -65,10 +65,10 @@
     {
       "id": "Integrity-Box",
       "name": ".\ud835\ude44\ud835\ude63\ud835\ude69\ud835\ude5a\ud835\ude5c\ud835\ude67\ud835\ude5e\ud835\ude69\ud835\ude6e \ud835\ude3d\ud835\ude64\ud835\ude6d \ud83d\udce6",
-      "version": "v27",
-      "versionCode": 27000,
+      "version": "v27.1",
+      "versionCode": 27100,
       "author": "\ud835\udde0\ud835\uddd8\ud835\udde2\ud835\uddea\ud835\uddfb\ud835\uddee \ud83d\udc85 || tg@MeowDump",
-      "description": "As long as I'm alive, there are infinite possibilities ",
+      "description": "Kindly Click on the action button ",
       "support": "https://github.com/MeowDump/Integrity-Box/issues",
       "readme": "https://raw.githubusercontent.com/MeowDump/Integrity-Boxrefs/heads/main/README.md",
       "require": [
@@ -79,7 +79,7 @@
       "verified": false,
       "added": 0,
       "timestamp": 1764079555.0,
-      "size": 97315,
+      "size": 98901,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -105,20 +105,20 @@
       },
       "versions": [
         {
-          "timestamp": 1763312990.0,
-          "version": "v26",
-          "versionCode": 26000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v26_26000.zip",
-          "changelog": "",
-          "size": 84976
-        },
-        {
           "timestamp": 1764079555.0,
           "version": "v27",
           "versionCode": 27000,
           "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v27_27000.zip",
           "changelog": "",
           "size": 97315
+        },
+        {
+          "timestamp": 1764079555.0,
+          "version": "v27.1",
+          "versionCode": 27100,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v27.1_27100.zip",
+          "changelog": "",
+          "size": 98901
         }
       ]
     },
@@ -249,7 +249,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 1885,
+      "stars": 1887,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -303,7 +303,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 4882,
+      "stars": 4883,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -409,7 +409,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1760,
+      "stars": 1762,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -467,7 +467,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 9044,
+      "stars": 9046,
       "track": {
         "type": "GIT",
         "added": null,
@@ -522,7 +522,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22387,
+      "stars": 22389,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -567,7 +567,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8140,
+      "stars": 8142,
       "track": {
         "type": "GIT",
         "added": null,
