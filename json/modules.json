@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1767011988.068597
+    "timestamp": 1767032844.854758
   },
   "modules": [
     {
@@ -95,7 +95,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1227,
+      "stars": 1228,
       "track": {
         "type": "GIT",
         "added": null,
@@ -164,7 +164,7 @@
       "id": "playintegrityfix",
       "name": "Play Integrity Fork",
       "version": "v16",
-      "versionCode": 161000,
+      "versionCode": 162000,
       "author": "osm0sis & chiteroman @ xda-developers",
       "description": "Fix <A13 Play Integrity DEVICE verdict",
       "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
@@ -174,8 +174,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1766942416.0,
-      "size": 283080,
+      "timestamp": 1767026656.0,
+      "size": 283241,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -187,7 +187,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3553,
+      "stars": 3554,
       "track": {
         "type": "GIT",
         "added": null,
@@ -197,20 +197,20 @@
       },
       "versions": [
         {
-          "timestamp": 1766802217.0,
-          "version": "v16",
-          "versionCode": 160000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v16_160000.zip",
-          "changelog": "",
-          "size": 282993
-        },
-        {
           "timestamp": 1766942416.0,
           "version": "v16",
           "versionCode": 161000,
           "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v16_161000.zip",
           "changelog": "",
           "size": 283080
+        },
+        {
+          "timestamp": 1767026656.0,
+          "version": "v16",
+          "versionCode": 162000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v16_162000.zip",
+          "changelog": "",
+          "size": 283241
         }
       ]
     },
@@ -249,7 +249,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 1891,
+      "stars": 1893,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -358,7 +358,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2283,
+      "stars": 2284,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -409,7 +409,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1764,
+      "stars": 1763,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -467,7 +467,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 9057,
+      "stars": 9061,
       "track": {
         "type": "GIT",
         "added": null,
@@ -522,7 +522,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22403,
+      "stars": 22404,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -567,7 +567,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8162,
+      "stars": 8163,
       "track": {
         "type": "GIT",
         "added": null,
