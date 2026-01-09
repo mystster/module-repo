@@ -9,6 +9,14 @@
       "zipUrl": "https://mystster.github.io/module-repo/modules/adguardcert/v2.1_36.zip",
       "changelog": "",
       "size": 3829
+    },
+    {
+      "timestamp": 1705998505.0,
+      "version": "v27.1",
+      "versionCode": 27100,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/adguardcert/v27.1_27100.zip",
+      "changelog": "",
+      "size": 3829
     }
   ]
 }
