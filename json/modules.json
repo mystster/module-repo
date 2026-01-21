@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1768999430.592533
+    "timestamp": 1769020727.019148
   },
   "modules": [
     {
@@ -95,7 +95,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1330,
+      "stars": 1331,
       "track": {
         "type": "GIT",
         "added": null,
@@ -311,7 +311,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5047,
+      "stars": 5053,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -417,7 +417,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1783,
+      "stars": 1784,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -447,8 +447,8 @@
     {
       "id": "zygisk_lsposed",
       "name": "Zygisk - LSPosed",
-      "version": "v1.10.2 (7202)",
-      "versionCode": 7202,
+      "version": "v1.10.2 (7203)",
+      "versionCode": 7203,
       "author": "JingMatrix & LSPosed Developers",
       "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16. Requires Magisk 26.0+ and Zygisk enabled.",
       "support": "https://github.com/JingMatrix/LSPosed/issues",
@@ -458,8 +458,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1768777610.0,
-      "size": 6485020,
+      "timestamp": 1769016314.0,
+      "size": 6485704,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.RESETPROP",
@@ -475,7 +475,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 9289,
+      "stars": 9291,
       "track": {
         "type": "GIT",
         "added": null,
@@ -485,20 +485,20 @@
       },
       "versions": [
         {
-          "timestamp": 1768510864.0,
-          "version": "v1.10.2 (7201)",
-          "versionCode": 7201,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.2_7201.zip",
-          "changelog": "",
-          "size": 6484929
-        },
-        {
           "timestamp": 1768777610.0,
           "version": "v1.10.2 (7202)",
           "versionCode": 7202,
           "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.2_7202.zip",
           "changelog": "",
           "size": 6485020
+        },
+        {
+          "timestamp": 1769016314.0,
+          "version": "v1.10.2 (7203)",
+          "versionCode": 7203,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.2_7203.zip",
+          "changelog": "",
+          "size": 6485704
         }
       ]
     },
@@ -530,7 +530,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22597,
+      "stars": 22600,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -575,7 +575,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8375,
+      "stars": 8376,
       "track": {
         "type": "GIT",
         "added": null,
