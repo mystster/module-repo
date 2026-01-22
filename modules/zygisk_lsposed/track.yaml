@@ -1,6 +1,6 @@
 enable: true
 id: zygisk_lsposed
-last_update: 1769016314.0
+last_update: 1769041039.0
 options:
   github:
     source: actions
