@@ -3,20 +3,20 @@
   "timestamp": 1729070021.0,
   "versions": [
     {
-      "timestamp": 1769333088.0,
-      "version": "v1.10.2 (7206)",
-      "versionCode": 7206,
-      "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.2_7206.zip",
-      "changelog": "",
-      "size": 6884268
-    },
-    {
       "timestamp": 1769620739.0,
       "version": "v1.10.2 (7207)",
       "versionCode": 7207,
       "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.2_7207.zip",
       "changelog": "",
       "size": 6884400
+    },
+    {
+      "timestamp": 1769871769.0,
+      "version": "v1.10.2 (7208)",
+      "versionCode": 7208,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk_lsposed/v1.10.2_7208.zip",
+      "changelog": "",
+      "size": 6884388
     }
   ]
 }
