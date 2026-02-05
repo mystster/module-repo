@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1770296214.395583
+    "timestamp": 1770317012.959804
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 376,
+      "stars": 377,
       "track": {
         "type": "GIT",
         "added": null,
@@ -98,7 +98,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1425,
+      "stars": 1427,
       "track": {
         "type": "GIT",
         "added": null,
@@ -198,7 +198,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 3728,
+      "stars": 3730,
       "track": {
         "type": "GIT",
         "added": null,
@@ -260,7 +260,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2021,
+      "stars": 2020,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -314,7 +314,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5152,
+      "stars": 5153,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -369,7 +369,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2336,
+      "stars": 2335,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -391,8 +391,8 @@
     {
       "id": "zygisk-detach",
       "name": "zygisk-detach",
-      "version": "v1.20.1",
-      "versionCode": 28,
+      "version": "v1.20.2",
+      "versionCode": 29,
       "author": "j-hc",
       "description": "Detaches installed apps from Play Store",
       "added": 1716564516.209616,
@@ -408,8 +408,8 @@
         "zygisk-assistant"
       ],
       "verified": false,
-      "timestamp": 1748779842.0,
-      "size": 178007,
+      "timestamp": 1770302987.0,
+      "size": 358502,
       "permissions": [
         "magisk.permission.POST_FS_DATA",
         "magisk.permission.ZYGISK",
@@ -420,7 +420,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 1811,
+      "stars": 1810,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -430,20 +430,20 @@
       },
       "versions": [
         {
-          "timestamp": 1744751428.0,
-          "version": "v1.20.0",
-          "versionCode": 27,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.20.0_27.zip",
-          "changelog": "https://zguation-projects.github.io/ZG-R/modules/zygisk-detach/v1.20.0_27.md",
-          "size": 176813
-        },
-        {
           "timestamp": 1748779842.0,
           "version": "v1.20.1",
           "versionCode": 28,
           "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk-detach/v1.20.1_28.zip",
           "changelog": "https://mystster.github.io/module-repo/modules/zygisk-detach/v1.20.1_28.md",
           "size": 178007
+        },
+        {
+          "timestamp": 1770302987.0,
+          "version": "v1.20.2",
+          "versionCode": 29,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/zygisk-detach/v1.20.2_29.zip",
+          "changelog": "https://mystster.github.io/module-repo/modules/zygisk-detach/v1.20.2_29.md",
+          "size": 358502
         }
       ]
     },
@@ -478,7 +478,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 9445,
+      "stars": 9450,
       "track": {
         "type": "GIT",
         "added": null,
@@ -533,7 +533,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22713,
+      "stars": 22714,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -578,7 +578,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8485,
+      "stars": 8490,
       "track": {
         "type": "GIT",
         "added": null,
