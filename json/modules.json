@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1770728857.18618
+    "timestamp": 1770750108.740418
   },
   "modules": [
     {
@@ -65,10 +65,10 @@
     {
       "id": "Integrity-Box",
       "name": ".\ud835\ude44\ud835\ude63\ud835\ude69\ud835\ude5a\ud835\ude5c\ud835\ude67\ud835\ude5e\ud835\ude69\ud835\ude6e \ud835\ude3d\ud835\ude64\ud835\ude6d \ud83d\udce6",
-      "version": "v29",
-      "versionCode": 29000,
+      "version": "v30",
+      "versionCode": 30000,
       "author": "\ud835\udde0\ud835\uddd8\ud835\udde2\ud835\uddea\ud835\uddfb\ud835\uddee \ud83d\udc85 & osm0sis",
-      "description": "The most advanced PIF known to mankind",
+      "description": "The most advanced play integrity fix module ever built ",
       "donate": "MeowDump.github.io",
       "support": "https://github.com/MeowDump/Integrity-Box/issues",
       "readme": "https://raw.githubusercontent.com/MeowDump/Integrity-Boxrefs/heads/main/README.md",
@@ -79,8 +79,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1770273383.0,
-      "size": 439379,
+      "timestamp": 1770745364.0,
+      "size": 442131,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -98,7 +98,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1459,
+      "stars": 1460,
       "track": {
         "type": "GIT",
         "added": null,
@@ -108,20 +108,20 @@
       },
       "versions": [
         {
-          "timestamp": 1769680411.0,
-          "version": "v28",
-          "versionCode": 28000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v28_28000.zip",
-          "changelog": "",
-          "size": 430653
-        },
-        {
           "timestamp": 1770273383.0,
           "version": "v29",
           "versionCode": 29000,
           "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v29_29000.zip",
           "changelog": "",
           "size": 439379
+        },
+        {
+          "timestamp": 1770745364.0,
+          "version": "v30",
+          "versionCode": 30000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v30_30000.zip",
+          "changelog": "",
+          "size": 442131
         }
       ]
     },
@@ -314,7 +314,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5187,
+      "stars": 5188,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -478,7 +478,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 9525,
+      "stars": 9530,
       "track": {
         "type": "GIT",
         "added": null,
@@ -533,7 +533,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 22751,
+      "stars": 22755,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -578,7 +578,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 8534,
+      "stars": 8538,
       "track": {
         "type": "GIT",
         "added": null,
