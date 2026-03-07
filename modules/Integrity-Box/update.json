@@ -3,20 +3,20 @@
   "timestamp": 1762360157.0,
   "versions": [
     {
-      "timestamp": 1770745364.0,
-      "version": "v30",
-      "versionCode": 30000,
-      "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v30_30000.zip",
-      "changelog": "",
-      "size": 442131
-    },
-    {
       "timestamp": 1771662232.0,
       "version": "v31",
       "versionCode": 31000,
       "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v31_31000.zip",
       "changelog": "",
       "size": 451548
+    },
+    {
+      "timestamp": 1772828112.0,
+      "version": "v32",
+      "versionCode": 32000,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v32_32000.zip",
+      "changelog": "",
+      "size": 407449
     }
   ]
 }
