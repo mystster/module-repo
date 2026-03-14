@@ -4,17 +4,17 @@
   "versions": [
     {
       "timestamp": 1705998505.0,
-      "version": "v2.1",
-      "versionCode": 36,
-      "zipUrl": "https://mystster.github.io/module-repo/modules/adguardcert/v2.1_36.zip",
+      "version": "v27.1",
+      "versionCode": 27100,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/adguardcert/v27.1_27100.zip",
       "changelog": "",
       "size": 3829
     },
     {
       "timestamp": 1705998505.0,
-      "version": "v27.1",
-      "versionCode": 27100,
-      "zipUrl": "https://mystster.github.io/module-repo/modules/adguardcert/v27.1_27100.zip",
+      "version": "v32",
+      "versionCode": 32000,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/adguardcert/v32_32000.zip",
       "changelog": "",
       "size": 3829
     }
