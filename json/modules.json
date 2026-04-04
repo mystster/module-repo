@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1775307036.407701
+    "timestamp": 1775327927.490443
   },
   "modules": [
     {
@@ -65,10 +65,10 @@
     {
       "id": "Integrity-Box",
       "name": ".\ud835\ude44\ud835\ude63\ud835\ude69\ud835\ude5a\ud835\ude5c\ud835\ude67\ud835\ude5e\ud835\ude69\ud835\ude6e \ud835\ude3d\ud835\ude64\ud835\ude6d \ud83d\udce6",
-      "version": "v34",
-      "versionCode": 34000,
+      "version": "v34.3",
+      "versionCode": 34300,
       "author": "\ud835\udde0\ud835\uddd8\ud835\udde2\ud835\uddea\ud835\uddfb\ud835\uddee \ud83d\udc85",
-      "description": "Stop posting Play Integrity screenshots. Every unnecessary check burns keyboxes quicker. Nobody cares about your \"STRONG INTEGRITY\" screenshot.",
+      "description": "A toolkit for managing play integrity & abnormal detection ",
       "donate": "https://MeowDump.github.io",
       "support": "https://github.com/MeowDump/Integrity-Box/issues",
       "readme": "https://raw.githubusercontent.com/MeowDump/Integrity-Boxrefs/heads/main/README.md",
@@ -79,8 +79,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1775039346.0,
-      "size": 315178,
+      "timestamp": 1775321023.0,
+      "size": 314086,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -98,7 +98,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 1894,
+      "stars": 1897,
       "track": {
         "type": "GIT",
         "added": null,
@@ -108,20 +108,20 @@
       },
       "versions": [
         {
-          "timestamp": 1774868448.0,
-          "version": "v33",
-          "versionCode": 33000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v33_33000.zip",
-          "changelog": "",
-          "size": 306518
-        },
-        {
           "timestamp": 1775039346.0,
           "version": "v34",
           "versionCode": 34000,
           "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v34_34000.zip",
           "changelog": "",
           "size": 315178
+        },
+        {
+          "timestamp": 1775321023.0,
+          "version": "v34.3",
+          "versionCode": 34300,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v34.3_34300.zip",
+          "changelog": "",
+          "size": 314086
         }
       ]
     },
@@ -260,7 +260,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2177,
+      "stars": 2178,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -314,7 +314,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 5615,
+      "stars": 5616,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -478,7 +478,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 10517,
+      "stars": 10524,
       "track": {
         "type": "GIT",
         "added": null,
@@ -533,7 +533,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23333,
+      "stars": 23337,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -578,7 +578,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9108,
+      "stars": 9112,
       "track": {
         "type": "GIT",
         "added": null,
