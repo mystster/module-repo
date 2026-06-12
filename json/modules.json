@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1781258805.575389
+    "timestamp": 1781275957.505307
   },
   "modules": [
     {
@@ -98,7 +98,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 2284,
+      "stars": 2285,
       "track": {
         "type": "GIT",
         "added": null,
@@ -175,7 +175,7 @@
       "id": "playintegrityfix",
       "name": "Play Integrity Fork",
       "version": "v16",
-      "versionCode": 164000,
+      "versionCode": 164001,
       "author": "osm0sis & chiteroman @ xda-developers",
       "description": "Fix <A13 Play Integrity DEVICE verdict",
       "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
@@ -185,8 +185,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1767918517.0,
-      "size": 283340,
+      "timestamp": 1781272992.0,
+      "size": 282418,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -208,20 +208,20 @@
       },
       "versions": [
         {
-          "timestamp": 1767575332.0,
-          "version": "v16",
-          "versionCode": 163000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v16_163000.zip",
-          "changelog": "",
-          "size": 283248
-        },
-        {
           "timestamp": 1767918517.0,
           "version": "v16",
           "versionCode": 164000,
           "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v16_164000.zip",
           "changelog": "",
           "size": 283340
+        },
+        {
+          "timestamp": 1781272992.0,
+          "version": "v16",
+          "versionCode": 164001,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v16_164001.zip",
+          "changelog": "",
+          "size": 282418
         }
       ]
     },
@@ -314,7 +314,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6018,
+      "stars": 6020,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -369,7 +369,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2498,
+      "stars": 2499,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -478,7 +478,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 11448,
+      "stars": 11450,
       "track": {
         "type": "GIT",
         "added": null,
@@ -533,7 +533,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23948,
+      "stars": 23950,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
