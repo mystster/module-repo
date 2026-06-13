@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1781321289.007113
+    "timestamp": 1781340832.043813
   },
   "modules": [
     {
@@ -65,8 +65,8 @@
     {
       "id": "Integrity-Box",
       "name": ".\ud835\ude44\ud835\ude63\ud835\ude69\ud835\ude5a\ud835\ude5c\ud835\ude67\ud835\ude5e\ud835\ude69\ud835\ude6e \ud835\ude3d\ud835\ude64\ud835\ude6d \ud83d\udce6",
-      "version": "v35",
-      "versionCode": 35000,
+      "version": "36",
+      "versionCode": 36000,
       "author": "\ud835\udde0\ud835\uddd8\ud835\udde2\ud835\uddea\ud835\uddfb\ud835\uddee \ud83d\udc85",
       "description": "Status: \ud83d\ude35\u200d\ud83d\udcab \u2726 Synced on \u2753 \u2022 Click on action button to sync again ",
       "donate": "https://MeowDump.github.io",
@@ -79,8 +79,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1777610276.0,
-      "size": 402669,
+      "timestamp": 1781330793.0,
+      "size": 434243,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -98,7 +98,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 2285,
+      "stars": 2288,
       "track": {
         "type": "GIT",
         "added": null,
@@ -108,20 +108,20 @@
       },
       "versions": [
         {
-          "timestamp": 1775321023.0,
-          "version": "v34.3",
-          "versionCode": 34300,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v34.3_34300.zip",
-          "changelog": "",
-          "size": 314086
-        },
-        {
           "timestamp": 1777610276.0,
           "version": "v35",
           "versionCode": 35000,
           "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v35_35000.zip",
           "changelog": "",
           "size": 402669
+        },
+        {
+          "timestamp": 1781330793.0,
+          "version": "36",
+          "versionCode": 36000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/36_36000.zip",
+          "changelog": "",
+          "size": 434243
         }
       ]
     },
@@ -198,7 +198,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4183,
+      "stars": 4184,
       "track": {
         "type": "GIT",
         "added": null,
@@ -314,7 +314,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6024,
+      "stars": 6025,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -478,7 +478,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 11451,
+      "stars": 11456,
       "track": {
         "type": "GIT",
         "added": null,
@@ -533,7 +533,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 23957,
+      "stars": 23958,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
