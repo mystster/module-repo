@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1781983275.571384
+    "timestamp": 1782014117.531057
   },
   "modules": [
     {
@@ -65,10 +65,10 @@
     {
       "id": "Integrity-Box",
       "name": ".\ud835\ude44\ud835\ude63\ud835\ude69\ud835\ude5a\ud835\ude5c\ud835\ude67\ud835\ude5e\ud835\ude69\ud835\ude6e \ud835\ude3d\ud835\ude64\ud835\ude6d \ud83d\udce6",
-      "version": "36",
-      "versionCode": 36000,
+      "version": "37",
+      "versionCode": 37000,
       "author": "\ud835\udde0\ud835\uddd8\ud835\udde2\ud835\uddea\ud835\uddfb\ud835\uddee \ud83d\udc85",
-      "description": "Status: \ud83d\ude35\u200d\ud83d\udcab \u2726 Synced on \u2753 \u2022 Click on action button to sync again ",
+      "description": "The distance between your dreams and reality is called action",
       "donate": "https://MeowDump.github.io",
       "support": "https://github.com/MeowDump/Integrity-Box/issues",
       "readme": "https://raw.githubusercontent.com/MeowDump/Integrity-Boxrefs/heads/main/README.md",
@@ -79,8 +79,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1781330793.0,
-      "size": 434243,
+      "timestamp": 1781986919.0,
+      "size": 428547,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -98,7 +98,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 2323,
+      "stars": 2324,
       "track": {
         "type": "GIT",
         "added": null,
@@ -108,20 +108,20 @@
       },
       "versions": [
         {
-          "timestamp": 1777610276.0,
-          "version": "v35",
-          "versionCode": 35000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v35_35000.zip",
-          "changelog": "",
-          "size": 402669
-        },
-        {
           "timestamp": 1781330793.0,
           "version": "36",
           "versionCode": 36000,
           "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/36_36000.zip",
           "changelog": "",
           "size": 434243
+        },
+        {
+          "timestamp": 1781986919.0,
+          "version": "37",
+          "versionCode": 37000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/37_37000.zip",
+          "changelog": "",
+          "size": 428547
         }
       ]
     },
@@ -174,8 +174,8 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fork",
-      "version": "v16",
-      "versionCode": 164001,
+      "version": "v17",
+      "versionCode": 170000,
       "author": "osm0sis & chiteroman @ xda-developers",
       "description": "Fix <A13 Play Integrity DEVICE verdict",
       "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
@@ -185,8 +185,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1781272992.0,
-      "size": 282418,
+      "timestamp": 1781983706.0,
+      "size": 285020,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -198,7 +198,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4211,
+      "stars": 4209,
       "track": {
         "type": "GIT",
         "added": null,
@@ -208,20 +208,20 @@
       },
       "versions": [
         {
-          "timestamp": 1767918517.0,
-          "version": "v16",
-          "versionCode": 164000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v16_164000.zip",
-          "changelog": "",
-          "size": 283340
-        },
-        {
           "timestamp": 1781272992.0,
           "version": "v16",
           "versionCode": 164001,
           "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v16_164001.zip",
           "changelog": "",
           "size": 282418
+        },
+        {
+          "timestamp": 1781983706.0,
+          "version": "v17",
+          "versionCode": 170000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v17_170000.zip",
+          "changelog": "",
+          "size": 285020
         }
       ]
     },
@@ -260,7 +260,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2392,
+      "stars": 2394,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -314,7 +314,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6063,
+      "stars": 6062,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -369,7 +369,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2508,
+      "stars": 2509,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -478,7 +478,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 11532,
+      "stars": 11533,
       "track": {
         "type": "GIT",
         "added": null,
@@ -533,7 +533,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24029,
+      "stars": 24030,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -578,7 +578,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9756,
+      "stars": 9762,
       "track": {
         "type": "GIT",
         "added": null,
