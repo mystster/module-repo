@@ -3,18 +3,18 @@
   "timestamp": 1761962465.0,
   "versions": [
     {
-      "timestamp": 1781272992.0,
-      "version": "v16",
-      "versionCode": 164001,
-      "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v16_164001.zip",
-      "changelog": "",
-      "size": 282418
-    },
-    {
       "timestamp": 1781983706.0,
       "version": "v17",
       "versionCode": 170000,
       "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v17_170000.zip",
+      "changelog": "",
+      "size": 285020
+    },
+    {
+      "timestamp": 1782154386.0,
+      "version": "v17",
+      "versionCode": 170001,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v17_170001.zip",
       "changelog": "",
       "size": 285020
     }
