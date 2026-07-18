@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1784340554.269059
+    "timestamp": 1784360639.224533
   },
   "modules": [
     {
@@ -98,7 +98,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 2441,
+      "stars": 2443,
       "track": {
         "type": "GIT",
         "added": null,
@@ -155,17 +155,17 @@
       "versions": [
         {
           "timestamp": 1705998505.0,
-          "version": "v27.1",
-          "versionCode": 27100,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/adguardcert/v27.1_27100.zip",
+          "version": "v32",
+          "versionCode": 32000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/adguardcert/v32_32000.zip",
           "changelog": "",
           "size": 3829
         },
         {
           "timestamp": 1705998505.0,
-          "version": "v32",
-          "versionCode": 32000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/adguardcert/v32_32000.zip",
+          "version": "v39",
+          "versionCode": 39000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/adguardcert/v39_39000.zip",
           "changelog": "",
           "size": 3829
         }
@@ -260,7 +260,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2440,
+      "stars": 2442,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -314,7 +314,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6166,
+      "stars": 6167,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -420,7 +420,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 2058,
+      "stars": 2059,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -478,7 +478,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 11803,
+      "stars": 11804,
       "track": {
         "type": "GIT",
         "added": null,
@@ -533,7 +533,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24189,
+      "stars": 24192,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -578,7 +578,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9973,
+      "stars": 9975,
       "track": {
         "type": "GIT",
         "added": null,
