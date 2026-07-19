@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1784466682.919143
+    "timestamp": 1784487692.711777
   },
   "modules": [
     {
@@ -98,7 +98,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 2449,
+      "stars": 2448,
       "track": {
         "type": "GIT",
         "added": null,
@@ -198,7 +198,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4302,
+      "stars": 4303,
       "track": {
         "type": "GIT",
         "added": null,
@@ -314,7 +314,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6175,
+      "stars": 6177,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -369,7 +369,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2524,
+      "stars": 2525,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -420,7 +420,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 2059,
+      "stars": 2060,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -478,7 +478,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 11815,
+      "stars": 11819,
       "track": {
         "type": "GIT",
         "added": null,
@@ -533,7 +533,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24204,
+      "stars": 24206,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -578,7 +578,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 9994,
+      "stars": 10001,
       "track": {
         "type": "GIT",
         "added": null,
