@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1784747499.161877
+    "timestamp": 1784773722.25075
   },
   "modules": [
     {
@@ -260,7 +260,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2448,
+      "stars": 2447,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -314,7 +314,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6188,
+      "stars": 6189,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -478,7 +478,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 11849,
+      "stars": 11851,
       "track": {
         "type": "GIT",
         "added": null,
@@ -533,7 +533,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24231,
+      "stars": 24233,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -578,7 +578,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 10036,
+      "stars": 10039,
       "track": {
         "type": "GIT",
         "added": null,
