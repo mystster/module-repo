@@ -9,16 +9,16 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1786626138.164551
+    "timestamp": 1786647494.280702
   },
   "modules": [
     {
       "id": "BetterKnownInstalled",
       "name": "BetterKnownInstalled (BKI)",
-      "version": "v1.4.0",
-      "versionCode": 1400,
+      "version": "v1.5.0",
+      "versionCode": 1500,
       "author": "@T3SL4",
-      "description": "Patching (installer, installerUid, installInitiator, installOriginator) in packages.xml and cleaning packages-warnings.xml for defeating DroidGuard: UNKNOWN_INSTALLED",
+      "description": "Patching (installer, installerUid, installInitiator, installOriginator) in packages.xml for defeating DroidGuard: UNKNOWN_INSTALLED",
       "support": "https://github.com/Pixel-Props/BetterKnownInstalled/issues",
       "readme": "https://raw.githubusercontent.com/Pixel-Props/BetterKnownInstalled/refs/heads/main/README.md",
       "note": {
@@ -27,15 +27,15 @@
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1757052357.0,
-      "size": 1794756,
+      "timestamp": 1786633618.0,
+      "size": 3016586,
       "permissions": [
         "magisk.permission.POST_FS_DATA"
       ],
       "features": {
         "post_fs_data": true
       },
-      "stars": 528,
+      "stars": 531,
       "track": {
         "type": "GIT",
         "added": null,
@@ -45,20 +45,20 @@
       },
       "versions": [
         {
-          "timestamp": 1738867123.0,
-          "version": "v1.3.3",
-          "versionCode": 1337,
-          "zipUrl": "https://zguation-projects.github.io/ZG-R/modules/BetterKnownInstalled/v1.3.3_1337.zip",
-          "changelog": "",
-          "size": 1793757
-        },
-        {
           "timestamp": 1757052357.0,
           "version": "v1.4.0",
           "versionCode": 1400,
           "zipUrl": "https://mystster.github.io/module-repo/modules/BetterKnownInstalled/v1.4.0_1400.zip",
           "changelog": "",
           "size": 1794756
+        },
+        {
+          "timestamp": 1786633618.0,
+          "version": "v1.5.0",
+          "versionCode": 1500,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/BetterKnownInstalled/v1.5.0_1500.zip",
+          "changelog": "",
+          "size": 3016586
         }
       ]
     },
@@ -98,7 +98,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 2543,
+      "stars": 2544,
       "track": {
         "type": "GIT",
         "added": null,
@@ -314,7 +314,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6280,
+      "stars": 6281,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -369,7 +369,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2559,
+      "stars": 2560,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -478,7 +478,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 12093,
+      "stars": 12096,
       "track": {
         "type": "GIT",
         "added": null,
@@ -533,7 +533,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24362,
+      "stars": 24368,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -578,7 +578,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 10275,
+      "stars": 10281,
       "track": {
         "type": "GIT",
         "added": null,
