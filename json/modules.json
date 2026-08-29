@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1788005698.464672
+    "timestamp": 1788034930.071615
   },
   "modules": [
     {
@@ -98,7 +98,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 2598,
+      "stars": 2599,
       "track": {
         "type": "GIT",
         "added": null,
@@ -174,10 +174,10 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fork",
-      "version": "v17",
-      "versionCode": 170001,
+      "version": "v18",
+      "versionCode": 180000,
       "author": "osm0sis & chiteroman @ xda-developers",
-      "description": "Fix <A13 Play Integrity DEVICE verdict",
+      "description": "Fix Play Integrity <A13 verdicts and Google Wallet/RCS on Android 7+",
       "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
       "readme": "https://raw.githubusercontent.com/osm0sis/PlayIntegrityFork/refs/heads/mainREADME.md",
       "require": [
@@ -185,8 +185,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1782154386.0,
-      "size": 285020,
+      "timestamp": 1788024638.0,
+      "size": 227895,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -208,20 +208,20 @@
       },
       "versions": [
         {
-          "timestamp": 1781983706.0,
-          "version": "v17",
-          "versionCode": 170000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v17_170000.zip",
-          "changelog": "",
-          "size": 285020
-        },
-        {
           "timestamp": 1782154386.0,
           "version": "v17",
           "versionCode": 170001,
           "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v17_170001.zip",
           "changelog": "",
           "size": 285020
+        },
+        {
+          "timestamp": 1788024638.0,
+          "version": "v18",
+          "versionCode": 180000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v18_180000.zip",
+          "changelog": "",
+          "size": 227895
         }
       ]
     },
@@ -260,7 +260,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2538,
+      "stars": 2539,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -314,7 +314,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6319,
+      "stars": 6317,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -478,7 +478,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 12259,
+      "stars": 12262,
       "track": {
         "type": "GIT",
         "added": null,
@@ -533,7 +533,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24531,
+      "stars": 24533,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -578,7 +578,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 10467,
+      "stars": 10475,
       "track": {
         "type": "GIT",
         "added": null,
