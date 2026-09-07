@@ -9,14 +9,14 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1788801102.33862
+    "timestamp": 1788815102.991683
   },
   "modules": [
     {
       "id": "BetterKnownInstalled",
       "name": "BetterKnownInstalled (BKI)",
-      "version": "v1.5.2",
-      "versionCode": 1520,
+      "version": "v1.6.0",
+      "versionCode": 1600,
       "author": "@T3SL4",
       "description": "Patching (installer, installerUid, installInitiator, installOriginator) in packages.xml for defeating DroidGuard: UNKNOWN_INSTALLED",
       "support": "https://github.com/Pixel-Props/BetterKnownInstalled/issues",
@@ -27,15 +27,15 @@
       },
       "verified": false,
       "added": 0,
-      "timestamp": 1788470890.0,
-      "size": 3016588,
+      "timestamp": 1788804109.0,
+      "size": 3018511,
       "permissions": [
         "magisk.permission.POST_FS_DATA"
       ],
       "features": {
         "post_fs_data": true
       },
-      "stars": 559,
+      "stars": 560,
       "track": {
         "type": "GIT",
         "added": null,
@@ -45,20 +45,20 @@
       },
       "versions": [
         {
-          "timestamp": 1787499714.0,
-          "version": "v1.5.1",
-          "versionCode": 1510,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/BetterKnownInstalled/v1.5.1_1510.zip",
-          "changelog": "",
-          "size": 3016511
-        },
-        {
           "timestamp": 1788470890.0,
           "version": "v1.5.2",
           "versionCode": 1520,
           "zipUrl": "https://mystster.github.io/module-repo/modules/BetterKnownInstalled/v1.5.2_1520.zip",
           "changelog": "",
           "size": 3016588
+        },
+        {
+          "timestamp": 1788804109.0,
+          "version": "v1.6.0",
+          "versionCode": 1600,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/BetterKnownInstalled/v1.6.0_1600.zip",
+          "changelog": "",
+          "size": 3018511
         }
       ]
     },
@@ -198,7 +198,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4461,
+      "stars": 4462,
       "track": {
         "type": "GIT",
         "added": null,
@@ -260,7 +260,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2557,
+      "stars": 2558,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -478,7 +478,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 12345,
+      "stars": 12348,
       "track": {
         "type": "GIT",
         "added": null,
@@ -533,7 +533,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24621,
+      "stars": 24623,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -578,7 +578,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 10564,
+      "stars": 10566,
       "track": {
         "type": "GIT",
         "added": null,
