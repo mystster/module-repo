@@ -3,20 +3,20 @@
   "timestamp": 1738867123.0,
   "versions": [
     {
-      "timestamp": 1788470890.0,
-      "version": "v1.5.2",
-      "versionCode": 1520,
-      "zipUrl": "https://mystster.github.io/module-repo/modules/BetterKnownInstalled/v1.5.2_1520.zip",
-      "changelog": "",
-      "size": 3016588
-    },
-    {
       "timestamp": 1788804109.0,
       "version": "v1.6.0",
       "versionCode": 1600,
       "zipUrl": "https://mystster.github.io/module-repo/modules/BetterKnownInstalled/v1.6.0_1600.zip",
       "changelog": "",
       "size": 3018511
+    },
+    {
+      "timestamp": 1789085175.0,
+      "version": "v1.6.1",
+      "versionCode": 1610,
+      "zipUrl": "https://mystster.github.io/module-repo/modules/BetterKnownInstalled/v1.6.1_1610.zip",
+      "changelog": "",
+      "size": 3022006
     }
   ]
 }
