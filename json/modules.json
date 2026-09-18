@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1789678555.340792
+    "timestamp": 1789700779.103817
   },
   "modules": [
     {
@@ -98,7 +98,7 @@
         "action": true,
         "webroot": true
       },
-      "stars": 2665,
+      "stars": 2664,
       "track": {
         "type": "GIT",
         "added": null,
@@ -155,17 +155,17 @@
       "versions": [
         {
           "timestamp": 1705998505.0,
-          "version": "v32",
-          "versionCode": 32000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/adguardcert/v32_32000.zip",
+          "version": "v39",
+          "versionCode": 39000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/adguardcert/v39_39000.zip",
           "changelog": "",
           "size": 3829
         },
         {
           "timestamp": 1705998505.0,
-          "version": "v39",
-          "versionCode": 39000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/adguardcert/v39_39000.zip",
+          "version": "v42",
+          "versionCode": 42000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/adguardcert/v42_42000.zip",
           "changelog": "",
           "size": 3829
         }
@@ -198,7 +198,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4496,
+      "stars": 4495,
       "track": {
         "type": "GIT",
         "added": null,
@@ -260,7 +260,7 @@
         "post_mount": true,
         "boot_completed": true
       },
-      "stars": 2577,
+      "stars": 2579,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -314,7 +314,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6362,
+      "stars": 6361,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -369,7 +369,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2601,
+      "stars": 2600,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -533,7 +533,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 24723,
+      "stars": 24725,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
