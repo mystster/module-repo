@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1792667242.165318
+    "timestamp": 1792686942.115651
   },
   "modules": [
     {
@@ -35,7 +35,7 @@
       "features": {
         "post_fs_data": true
       },
-      "stars": 571,
+      "stars": 574,
       "track": {
         "type": "GIT",
         "added": null,
@@ -59,69 +59,6 @@
           "zipUrl": "https://mystster.github.io/module-repo/modules/BetterKnownInstalled/v1.6.1_1610.zip",
           "changelog": "",
           "size": 3022006
-        }
-      ]
-    },
-    {
-      "id": "Integrity-Box",
-      "name": ".\ud835\ude44\ud835\ude63\ud835\ude69\ud835\ude5a\ud835\ude5c\ud835\ude67\ud835\ude5e\ud835\ude69\ud835\ude6e \ud835\ude3d\ud835\ude64\ud835\ude6d \ud83d\udce6",
-      "version": "v45",
-      "versionCode": 45000,
-      "author": "\ud835\udde0\ud835\uddd8\ud835\udde2\ud835\uddea\ud835\uddfb\ud835\uddee \ud83d\udc85",
-      "description": "A comprehensive suite designed to help apps remain compatible with compromised environments ",
-      "donate": "https://MeowDump.github.io",
-      "support": "https://github.com/MeowDump/Integrity-Box/issues",
-      "readme": "https://raw.githubusercontent.com/MeowDump/Integrity-Boxrefs/heads/main/README.md",
-      "require": [
-        "PlayIntegrityFix",
-        "susfs4ksu",
-        "tricky_store"
-      ],
-      "verified": false,
-      "added": 0,
-      "timestamp": 1792260819.0,
-      "size": 1817729,
-      "permissions": [
-        "magisk.permission.SERVICE",
-        "magisk.permission.POST_FS_DATA",
-        "magisk.permission.RESETPROP",
-        "magisk.permission.ZYGISK",
-        "magisk.permission.ACTION",
-        "kernelsu.permission.WEBUI",
-        "mmrl.permission.DEXS"
-      ],
-      "features": {
-        "service": true,
-        "post_fs_data": true,
-        "resetprop": true,
-        "zygisk": true,
-        "action": true,
-        "webroot": true
-      },
-      "stars": 2772,
-      "track": {
-        "type": "GIT",
-        "added": null,
-        "source": "https://github.com/MeowDump/Integrity-Box",
-        "antifeatures": null,
-        "build_metadata": "https://mystster.github.io/module-repo/modules/Integrity-Box/track.yaml"
-      },
-      "versions": [
-        {
-          "timestamp": 1792140856.0,
-          "version": "v44",
-          "versionCode": 44000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v44_44000.zip",
-          "changelog": "",
-          "size": 2092652
-        },
-        {
-          "timestamp": 1792260819.0,
-          "version": "v45",
-          "versionCode": 45000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/Integrity-Box/v45_45000.zip",
-          "changelog": "",
-          "size": 1817729
         }
       ]
     },
@@ -314,7 +251,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6425,
+      "stars": 6426,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -478,7 +415,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 12869,
+      "stars": 12875,
       "track": {
         "type": "GIT",
         "added": null,
@@ -533,7 +470,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 25127,
+      "stars": 25138,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -578,7 +515,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 10675,
+      "stars": 10681,
       "track": {
         "type": "GIT",
         "added": null,
