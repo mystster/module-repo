@@ -9,7 +9,7 @@
   "description": null,
   "metadata": {
     "version": 1,
-    "timestamp": 1793665670.045758
+    "timestamp": 1793712918.524452
   },
   "modules": [
     {
@@ -111,8 +111,8 @@
     {
       "id": "playintegrityfix",
       "name": "Play Integrity Fork",
-      "version": "v18",
-      "versionCode": 180001,
+      "version": "v19",
+      "versionCode": 190000,
       "author": "osm0sis & chiteroman @ xda-developers",
       "description": "Fix Play Integrity <A13 verdicts and Google Wallet/RCS on Android 7+",
       "support": "https://github.com/osm0sis/PlayIntegrityFork/issues",
@@ -122,8 +122,8 @@
       ],
       "verified": false,
       "added": 0,
-      "timestamp": 1788892393.0,
-      "size": 227990,
+      "timestamp": 1793670351.0,
+      "size": 341951,
       "permissions": [
         "magisk.permission.SERVICE",
         "magisk.permission.POST_FS_DATA",
@@ -135,7 +135,7 @@
         "post_fs_data": true,
         "action": true
       },
-      "stars": 4638,
+      "stars": 4642,
       "track": {
         "type": "GIT",
         "added": null,
@@ -145,20 +145,20 @@
       },
       "versions": [
         {
-          "timestamp": 1788024638.0,
-          "version": "v18",
-          "versionCode": 180000,
-          "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v18_180000.zip",
-          "changelog": "",
-          "size": 227895
-        },
-        {
           "timestamp": 1788892393.0,
           "version": "v18",
           "versionCode": 180001,
           "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v18_180001.zip",
           "changelog": "",
           "size": 227990
+        },
+        {
+          "timestamp": 1793670351.0,
+          "version": "v19",
+          "versionCode": 190000,
+          "zipUrl": "https://mystster.github.io/module-repo/modules/playintegrityfix/v19_190000.zip",
+          "changelog": "",
+          "size": 341951
         }
       ]
     },
@@ -251,7 +251,7 @@
         "sepolicy": true,
         "apks": true
       },
-      "stars": 6445,
+      "stars": 6447,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1723905223.0,
@@ -306,7 +306,7 @@
         "post_fs_data": true,
         "zygisk": true
       },
-      "stars": 2662,
+      "stars": 2663,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -357,7 +357,7 @@
         "zygisk": true,
         "webroot": true
       },
-      "stars": 2197,
+      "stars": 2196,
       "track": {
         "type": "ONLINE_JSON",
         "added": 1716564516.209616,
@@ -415,7 +415,7 @@
         "action": true,
         "apks": true
       },
-      "stars": 13013,
+      "stars": 13019,
       "track": {
         "type": "GIT",
         "added": null,
@@ -470,7 +470,7 @@
         "sepolicy": true,
         "zygisk": true
       },
-      "stars": 25306,
+      "stars": 25315,
       "track": {
         "type": "ONLINE_JSON",
         "added": null,
@@ -515,7 +515,7 @@
         "sepolicy": true,
         "webroot": true
       },
-      "stars": 10787,
+      "stars": 10798,
       "track": {
         "type": "GIT",
         "added": null,
